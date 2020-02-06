@@ -5,7 +5,7 @@ import Image from "../components/image"
 export default () => (
    <Layout>
         <div class="container">
-            <h1 class="header">FALL 2019 COMP</h1>
+            <h1 class="header">Spring 2020 COMP</h1>
                 <figure>
                     <Image name="fall-2019-comp.jpg" style={{margin:"auto", width:"75%"}} align="middle"/>
                 </figure>
@@ -24,7 +24,7 @@ export default () => (
             </p>
             <p></p>
             <p className="text center">
-            If you are interested in learning more about our comp, please contact the relevant board head:
+            If you are interested in learning more about our comp, please fill out <a href="https://forms.gle/X4NfhzVgDsBcFUyaA">this comp interest form</a> and contact the relevant board head:
             </p>
             <p></p>
             <div class="center">
