@@ -24,7 +24,7 @@ export default () => (
             </p>
             <p></p>
             <p className="text center">
-            If you are interested in learning more about our comp, please fill out <a href="https://forms.gle/X4NfhzVgDsBcFUyaA">this comp interest form</a> and contact the relevant board head:
+            If you are interested in learning more about our comp, <! –– please fill out <a href="https://forms.gle/X4NfhzVgDsBcFUyaA">this comp interest form</a> and --> contact the relevant board head:
             </p>
             <p></p>
             <div class="center">
