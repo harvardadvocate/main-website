@@ -10,7 +10,8 @@ export default () => (
             </div>
             <h1 class="header">Spring 2020 Issue</h1>
             <div className='center'>
-                <p>We are currently accepting submissions for our Spring 2020 issue "Feast":</p>
+                <p>We are currently accepting submissions for our Spring 2020 issue
+    </p>
                 <p>Our Spring 2020 review period ends on March 6, 2020.</p>
             </div>
             <p></p>
