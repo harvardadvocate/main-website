@@ -23,6 +23,7 @@ const Subscribe = class extends React.Component {
 
         successUrl: 'https://www.theharvardadvocate.com/success',
         cancelUrl: 'https://www.theharvardadvocate.com/subscribe',
+        billingAddressCollection: 'required'
     })
     if (error) {
       console.warn("Error:", error)
