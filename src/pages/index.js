@@ -144,7 +144,7 @@ export default ({data}) => (
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                        <a href="https://irvinghouse.com/"><Image name="irvinghouse-1.jpg"/></a>
+                        <a href="https://irvinghouse.com/"><Image name="s3://theharvardadvocate/irvinghouse-1.jpg"/></a>
                     </article>
                 </div>
 
