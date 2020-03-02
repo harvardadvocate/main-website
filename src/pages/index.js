@@ -153,7 +153,7 @@ export default ({data}) => (
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
                             <a href="https://irvinghouse.com/"> 
-                                <Image name="irvinghouse.png"/> 
+                                <Image name="irvinghouse2.jpeg"/> 
                             </a>
                     </article>
                 </div>
