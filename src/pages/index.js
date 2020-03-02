@@ -149,6 +149,15 @@ export default ({data}) => (
                             </a>
                     </article>
                 </div>
+
+                <div class="col-md-4">
+                    <article>
+                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
+                            <a href="https://www.irvinghouse.com/"> 
+                                <Image name="irvinghouse-1.jpg"/> 
+                            </a>
+                    </article>
+                </div>
                 
                 <div class="clearfix"></div>
             </section>
