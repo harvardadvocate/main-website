@@ -144,17 +144,15 @@ export default ({data}) => (
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                            <a href="https://divacup.com/"> 
-                                <Image name="diva_cup.png"/> 
-                            </a>
+                        <a href="https://irvinghouse.com/"><Image name="irvinghouse-1.jpg"/></a>
                     </article>
                 </div>
 
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                            <a href="https://www.irvinghouse.com/"> 
-                                <Image name="irvinghouse-1.jpg"/> 
+                            <a href="https://divacup.com/"> 
+                                <Image name="diva_cup.png"/> 
                             </a>
                     </article>
                 </div>
