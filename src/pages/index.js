@@ -149,7 +149,6 @@ export default ({data}) => (
                             </a>
                     </article>
                 </div>
-
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
