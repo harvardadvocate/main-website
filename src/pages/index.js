@@ -140,12 +140,7 @@ export default ({data}) => (
                 <div class="clearfix"></div>
             </section>
             <section class="banner-advertisement">
-                <div class="col-md-4">
-                    <article>
-                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                        <a href="https://www.irvinghouse.com/"><Image name="irvinghouse.png"/></a>
-                    </article>
-                </div>
+                
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
@@ -154,12 +149,7 @@ export default ({data}) => (
                             </a>
                     </article>
                 </div>
-                <div class="col-md-4">
-                    <article>
-                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                        <a href="https://www.irvinghouse.com/"><Image name="irvinghouse.png"/></a>
-                    </article>
-                </div>
+                
                 <div class="clearfix"></div>
             </section>
             <section class="bottom-features">
