@@ -152,7 +152,7 @@ export default ({data}) => (
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                            <a href="https://irvinghouse.com/"> 
+                            <a href="https://www.luxuryhotelsguides.com/?hotelid=57190&gclid=EAIaIQobChMIgs-rqNy16AIVyrHtCh1lqgiLEAAYASAAEgK64fD_BwE"> 
                                 <Image name="irvinghouse2.jpeg"/> 
                             </a>
                     </article>
