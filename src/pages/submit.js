@@ -12,7 +12,7 @@ export default () => (
             <div className='center'>
                 <p>We are currently accepting submissions for our Summer 2020 issue
     </p>
-                <p>Our Symmer 2020 review period ends on May 1, 2020.</p>
+                <p>Our Summer 2020 review period ends on May 1, 2020.</p>
             </div>
             <p></p>
             <p></p>
