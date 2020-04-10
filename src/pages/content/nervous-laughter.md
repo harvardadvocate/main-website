@@ -30,21 +30,21 @@ The jokes were written by Patti himself (neural networks output the form of thei
 
 A manifestation of the “funny bot” is Sophia the Robot, who made her first appearance on *The Tonight Show* in April 2017; the video has received over 20 million views. A social humanoid robot, Sophia was activated in 2016 by Hanson Robotics, and her technology uses artificial intelligence, facial recognition and visual data processing. As of October 2019, Hanson Robotics acknowledges on her website that Sophia is part “human-crafted science fiction character” and part “real science.” Over the past few years, Sophia has dutifully made appearances on *The Tonight Show* and *The TODAY Show*, even once guest starring in a video on Will Smith’s YouTube channel — almost exclusively comedic platforms.
 
->*“Sophia, can you tell me a joke?” Fallon asks the first time he meets Sophia.*
-
->*“Sure. What cheese can never be yours?” replies Sophia.*
-
->*“What cheese can never be mine? I don’t know.”*
-
->*“Nacho cheese,” says Sophia. Her eyes crinkle in a delayed smile.*
-
->*“That’s good,” Fallon chuckles, kind of nervously. “I like nacho cheese.”*
-
->*“Nacho cheese is” — Sophia slowly contorts her face in an expression of disgust — “ew.”*
-
->*The audience laughs.*
-
->*“I’m getting laughs,” says Sophia. “Maybe I should host the show.”*
+>*“Sophia, can you tell me a joke?” Fallon asks the first time he meets Sophia.* <br>
+<br>
+*“Sure. What cheese can never be yours?” replies Sophia.*<br>
+<br>
+*“What cheese can never be mine? I don’t know.”*<br>
+<br>
+*“Nacho cheese,” says Sophia. Her eyes crinkle in a delayed smile.*<br>
+<br>
+*“That’s good,” Fallon chuckles, kind of nervously. “I like nacho cheese.”*<br>
+<br>
+*“Nacho cheese is” — Sophia slowly contorts her face in an expression of disgust — “ew.”*<br>
+<br>
+*The audience laughs.*<br>
+<br>
+*“I’m getting laughs,” says Sophia. “Maybe I should host the show.”*<br>
 
 Sophia’s amused realization that she is getting laughs doesn’t mean all that much; the bar she has to clear is low. In fact, the worse the joke is — the more forced the delivery, the more nonsensical the content — the better. If we think we are funnier than robots, we want to see them fail.
 
