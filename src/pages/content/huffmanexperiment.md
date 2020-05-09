@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['3ff62a4b88a27524e19d7db5e5a81244.pdf']
+images: ['Huffman_The People.pdf']
 videos: []
 ---
