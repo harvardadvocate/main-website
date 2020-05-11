@@ -1,5 +1,5 @@
 ---
-title: "*from* GIRLS THAT NEVER DIE"
+title: "from GIRLS THAT NEVER DIE"
 slug: "girls-that-never-die"
 issue: "Spring"
 issue_full_name: "Spring 2020"
