@@ -1,5 +1,5 @@
 ---
-title: ""THREE YEARS OF NATURAL DISASTERS""
+title: "THREE YEARS OF NATURAL DISASTERS"
 slug: "three-years-of-natural-disasters"
 issue: "Winter"
 issue_full_name: "Winter 2019"
