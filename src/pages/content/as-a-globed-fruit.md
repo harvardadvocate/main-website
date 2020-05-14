@@ -1,5 +1,5 @@
 ---
-title: "As a Globed Fruit<sup>1</sup>"
+title: "As a Globed Fruit"
 slug: "as-a-globed-fruit"
 issue: "Spring"
 issue_full_name: "Spring 2020"
