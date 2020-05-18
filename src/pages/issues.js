@@ -16,8 +16,7 @@ function convertToSlug(Text)
     return Text
         .toLowerCase()
         .replace(/ /g,'-')
-        .replace(/[^\w-]+/g,'')
-        ;
+        .replace(/[^\w-]+/g,'');
 }
 
 function issue_full_date_compare(a, b) {
