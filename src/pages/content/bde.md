@@ -14,6 +14,7 @@ images: []
 videos: []
 ---
 
+God gave me a man  
 Who I, in turn, bodied.  
 Had he lived, I would  
 Take myself more seriously.  
