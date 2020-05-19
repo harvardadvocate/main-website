@@ -32,7 +32,7 @@ var photo = a.frontmatter.images ? (<Link to={"/content/"+a.frontmatter.slug}><I
 function issue_full_date_compare(a, b) {
     const a_parts = a.split(" ")
     const b_parts = b.split(" ")
-    const issue_order = ['Spring', 'Summer', 'Commencement', 'Fall', 'Winter']
+    const issue_order = ['Winter', 'Spring', 'Summer', 'Commencement', 'Fall']
 
     // If the issue have different years, we can compare the years directly
     if (a_parts[1] !== b_parts[1]) {
