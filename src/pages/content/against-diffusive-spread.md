@@ -1,3 +1,4 @@
+---
 title: "Against Diffusive Spread"
 slug: "against-diffusive-spread"
 issue: "Spring"
