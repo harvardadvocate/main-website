@@ -15,7 +15,7 @@ videos: []
 ---
 
 
-      Stranger, uninvited, you  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stranger, uninvited, you  
 come up to us on the sidewalk,  
 
 my daughter’s hand in mine, you  
