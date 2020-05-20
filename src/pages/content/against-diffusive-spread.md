@@ -4,7 +4,7 @@ issue: "Spring"
 issue_full_name: "Spring 2019"
 year: "2019"
 date: "2019-04-01"
-authors: ['Leah Wallace']
+authors: ['Leah Wallach']
 section: "poetry"
 audio: []
 main_image: ""
