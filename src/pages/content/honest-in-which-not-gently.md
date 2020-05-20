@@ -1,3 +1,4 @@
+---
 title: "Honest in Which Not Gently"
 slug: "honest-in-which-not-gently"
 issue: "Fall"
