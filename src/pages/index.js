@@ -141,7 +141,14 @@ export default ({data}) => (
             </section>
             <section class="banner-advertisement">
 
-
+                <div class="col-md-4">
+                    <article>
+                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
+                            <a href="https://www.loveprayjewelry.com/">
+                                <Image name="lovepray.png"/>
+                            </a>
+                    </article>
+                </div>
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
