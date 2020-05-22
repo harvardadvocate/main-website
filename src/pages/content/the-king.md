@@ -8,11 +8,12 @@ date: "2019-06-01"
 authors: ['Eli Zuzovsky']
 section: "features"
 audio: []
-main_image: "the-king.jpg"
+main_image: "the-king.png"
 banner_image: ""
-images: ["the-king.jpg"]
+images: ["the-king.png"]
 videos: []
 ---
+
 *2003*
 
   

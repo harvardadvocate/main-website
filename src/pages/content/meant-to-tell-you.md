@@ -8,7 +8,7 @@ date: "2019-09-01"
 authors: ['Eli Holmes']
 section: "features"
 audio: []
-main_image: "meant-to-tell-you.jpg"
+main_image: ""
 banner_image: ""
 images: ["meant-to-tell-you.jpg"]
 videos: []

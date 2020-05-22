@@ -110,7 +110,7 @@ export default ({data}) => (
                     <div class="feature-image-container-large">
                     <div class="feature-image" id="feature-1-image">
                     <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                        <Image name="at-home-with-peter-bradley.jpg"/>
+                        <Image name="my-first-blood.png"/>
                     </Link>
                     </div>
                     </div>
@@ -140,17 +140,17 @@ export default ({data}) => (
                 <div class="clearfix"></div>
             </section>
             <section class="banner-advertisement">
-                
-    
+
+
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                            <a href="https://www.luxuryhotelsguides.com/?hotelid=57190&gclid=EAIaIQobChMIgs-rqNy16AIVyrHtCh1lqgiLEAAYASAAEgK64fD_BwE"> 
-                                <Image name="irvinghouse2.jpeg"/> 
+                            <a href="https://www.luxuryhotelsguides.com/?hotelid=57190&gclid=EAIaIQobChMIgs-rqNy16AIVyrHtCh1lqgiLEAAYASAAEgK64fD_BwE">
+                                <Image name="irvinghouse2.jpeg"/>
                             </a>
                     </article>
                 </div>
-                
+
                 <div class="clearfix"></div>
             </section>
             <section class="bottom-features">

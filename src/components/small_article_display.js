@@ -37,7 +37,7 @@ class SmallArticleDisplay extends React.Component {
                     }
                     <div class="feature-author">
                         {data.node.frontmatter.authors.map(author => (
-                            <Link to={"contributor/"+convertToSlug(author)} class="no-decoration">{author}</Link>
+                            <Link to={"contributor/"+convertToSlug(author)} class="no-decoration">  {author}</Link>
                         ))}
                     </div>
                     <div class="feature-release-date-small">{data.node.frontmatter.date}</div>
