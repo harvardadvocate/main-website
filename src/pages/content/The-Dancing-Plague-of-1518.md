@@ -1,3 +1,4 @@
+---
 title: "The Dancing Plague of 1518"
 slug: "the-dancing-plague-of-1518"
 issue: "Winter"
