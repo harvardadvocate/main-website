@@ -1,10 +1,11 @@
+---
 title: "Land in Sight"
 slug: "land-in-sight"
 issue: "Winter"
 issue_full_name: "Winter 2020"
 year: "2020"
 date: "2020-02-01"
-authors: ['Eileen Myles']
+authors: ['Owen Torrey']
 section: "poetry"
 audio: []
 main_image: ""
