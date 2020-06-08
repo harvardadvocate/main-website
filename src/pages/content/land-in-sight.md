@@ -22,7 +22,7 @@ Up, leave earth by latest May. I don’t think
 You would need to sweat in space because  
 There’s no one there to tell you to. Here there  
 Are pools on earth, mostly lakes, and some  
-What oceans. Slacking off at work, I found
+What oceans. Slacking off at work, I found  
 Myself watching footage of the moon landing,  
 With arrows showing wires pulling men across  
 The so-called “moon.” Accidentally, my sound  
@@ -32,6 +32,6 @@ And my boss once told me her dad believed
 He picked up, from his radio, the distress calls  
 Amelia Earhart sent before she died. So I’m wide  
 With apology when she hears about the moon  
-Landing, across the room, having happened ֥ 
+Landing, across the room, having happened ֥  
 "Here on earth." I didn't want you to find out  
 Like this, I tell her. Now there’s nowhere to go.  
