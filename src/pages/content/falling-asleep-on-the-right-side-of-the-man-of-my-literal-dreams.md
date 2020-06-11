@@ -1,0 +1,34 @@
+---
+title: "falling asleep on the right side of the man
+of my literal dreams"
+slug: "falling-asleep-on-the-right-side-of-the-man-of-my-literal-dreams"
+issue: "Winter"
+issue_full_name: "Winter 2020"
+year: "2020"
+date: "2020-02-01"
+authors: ['Molly Peterson']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+videos: []
+---
+smooth doorknob face - and chest full of time bombs - spot of ultimate explosion far  
+but miraculously not - beyond my amateur reach - am i the shortbread - or the not shortbread  
+of the binary - you made in your sleep - strange strange cookie - what does efficiency  
+have to do with - your mouth like something - made to be plucked - if i could bake anything  
+into this melting feeling - it would be air - one sure handful - of yeast //  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // this is the future - last saturday  
+couldn’t portend - last tuesday stuck pins in - last nightmare broke into - less like day than  
+matins - song - you sing in your waking - but sleeping you rupture - my only - i move toward your  
+meteor shower - of language - like big mouths for bits - of popcorn - that old party trick  
+my poor reflex - rejects - the saving grace of palms //  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // i like you unwaxed - i like you illegible - can’t  
+see the bus - but hear it arriving - footsteps outside the door - heavy as fingers - children  
+climbing a trunk - slim leaves yellow - your dark tangling hair - piles of autumn colors  
+trembling - ready to burst - can you imagine - back against the grass - red and orange and red  
+and yellow butterflies - god did that - folded secrets - out of air - darling? your ears - close  
+enough to toss a new coin in - watch it go down  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; around - around - around - did you ever do that - at the zoo?  
+
