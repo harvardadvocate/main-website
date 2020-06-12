@@ -17,7 +17,7 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- Long before I had the motor control to make my stubby fingers press *play *or *rewind, *she began to curate a collection of CDs for my auditory consumption. We’d pop them into the stereo, and feeding time would begin: soaring voices and charging trumpet crescendos like bites of quiche, baked to eggy perfection.
+ Long before I had the motor control to make my stubby fingers press *play* or *rewind*, she began to curate a collection of CDs for my auditory consumption. We’d pop them into the stereo, and feeding time would begin: soaring voices and charging trumpet crescendos like bites of quiche, baked to eggy perfection.
 
   
 
@@ -25,11 +25,11 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- She stored each disc in a neon green CD binder. The case was made out of a shiny material I can only describe as kind of like those optical illusions where you see a rabbit when you look at it from the left but a pony from the right. The kind of material that, once you develop control over your fingers, you can scratch with your nails to make a piercing *skrt skrt skrt *noise. A material you can keep *skrt skrting *until the day your dad explodes that he will confiscate every last CD in the case if you make that noise one more time. (Whereupon you tell him it doesn’t seem to bother anyone else. He tells you he has sensitive ears. You did not know this was a condition an ear could be in, and you say an extra prayer for weak-eared people of the world the next time you’re not mad at God for making you go to Sunday School, which is not for a while.)
+ She stored each disc in a neon green CD binder. The case was made out of a shiny material I can only describe as kind of like those optical illusions where you see a rabbit when you look at it from the left but a pony from the right. The kind of material that, once you develop control over your fingers, you can scratch with your nails to make a piercing *skrt skrt skrt* noise. A material you can keep *skrt skrting* until the day your dad explodes that he will confiscate every last CD in the case if you make that noise one more time. (Whereupon you tell him it doesn’t seem to bother anyone else. He tells you he has sensitive ears. You did not know this was a condition an ear could be in, and you say an extra prayer for weak-eared people of the world the next time you’re not mad at God for making you go to Sunday School, which is not for a while.)
 
   
 
- Before they lived in my binder, these albums were my mother’s. Not in CD form–those gleaming tokens never belonged to anyone besides me–but as their primordial ancestors. She likes to tell me how she’d put them on her record player and lie on the ground for hours listening. I imagine her melting into her shag carpet while humming along to angsty *Chorus Line *tunes. *Hello twelve, hello thirteen, hello love...* she’d sing, as the rest of the children lit up blunts, paged through *Go Ask Alice.*
+ Before they lived in my binder, these albums were my mother’s. Not in CD form–those gleaming tokens never belonged to anyone besides me–but as their primordial ancestors. She likes to tell me how she’d put them on her record player and lie on the ground for hours listening. I imagine her melting into her shag carpet while humming along to angsty *Chorus Line* tunes. *Hello twelve, hello thirteen, hello love...* she’d sing, as the rest of the children lit up blunts, paged through *Go Ask Alice.*
 
   
 
@@ -37,7 +37,7 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- And during that brief silent *click click click *as the CD spun unproductively, trying to figure out who it was and what kind of sounds it was supposed to be making, I’d leap from one side of the room to the other, landing next to my mother, where she awaited me on our squishy red couch. We’d curl up together, ready to embark on whichever odyssey we had chosen for the next hour.
+ And during that brief silent *click click click* as the CD spun unproductively, trying to figure out who it was and what kind of sounds it was supposed to be making, I’d leap from one side of the room to the other, landing next to my mother, where she awaited me on our squishy red couch. We’d curl up together, ready to embark on whichever odyssey we had chosen for the next hour.
 
   
 
@@ -45,7 +45,7 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- It was via this ritual that I drank in the swaggering waltzes of *South Pacific, *the stumbling chromatics of *Evita, *the raunchy vamps of *Cabaret. *I sat on that couch and absorbed *Cats’* psychedelic pulsing, let *West Side Story*’s gleaming sincerity wash over me. I chomped through the bouncing pitter-patter of *My Fair Lady, *slurped down the 70s New-Yorkisms of *A Chorus Line*, chewed up the ominous reverberation of *The Secret Garden, *swallowed whole the gentle warbles of *Godspell.*
+ It was via this ritual that I drank in the swaggering waltzes of *South Pacific*, the stumbling chromatics of *Evita*, the raunchy vamps of *Cabaret*. I sat on that couch and absorbed *Cats*’ psychedelic pulsing, let *West Side Story*’s gleaming sincerity wash over me. I chomped through the bouncing pitter-patter of *My Fair Lady*, slurped down the 70s New-Yorkisms of *A Chorus Line*, chewed up the ominous reverberation of *The Secret Garden*, swallowed whole the gentle warbles of *Godspell*.
 
   
 
@@ -77,11 +77,11 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- She uses the stereo when she entertains to play elevator music, and when she was overcome with dramatic emotions, she blares Israeli dance music or smooth jazz or Santana over the speaker because she “really just *feels *like it*.” *My mother likes feelings.
+ She uses the stereo when she entertains or when she is overcome with dramatic emotions, because she “really just *feels* like it.” My mother likes feelings.
 
   
 
- The record player was always a bit of an enigma. Silent mostly, except for rare occasions when nostalgia overwhelmed my mother and she simply had to hear Pete Seeger’s *Abiyoyo *on vinyl. Mostly, this strange plastic prism felt simply out of place. Older even older than the television in right cabinet I figured it couldn’t possibly live in the world of my neon green binder. In the way that JFK accents and hoop skirts are nice in movies but bizarre on modern-day street corners, I concluded that the record player fit inside a different time.
+ The record player was always a bit of an enigma. Silent mostly, except for rare occasions when nostalgia overwhelmed my mother and she simply had to hear Pete Seeger’s *Abiyoyo* on vinyl. Mostly, this strange plastic prism felt simply out of place. Older even than the television in right cabinet I figured it couldn’t possibly live in the world of my neon green binder. In the way that JFK accents and hoop skirts are nice in movies but bizarre on modern-day street corners, I concluded that the record player fit inside a different time.
 
   
 
@@ -89,7 +89,7 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- She talked about a time after college when she lived in an apartment next to a commune. She didn’t pay much attention to the commune, and they didn’t pay much attention to her. But they were plenty nice. She quite liked them, actually, except that along with societal norms and my mother, they also mostly ignored material concerns. This was fine until the day their toilet got backed up and they didn’t notice until it exploded, covering their room, oozing into hallway, seeping under my mother’s door in waves of pungent filth.
+ She talked about a time after college when she lived in an apartment next to a commune. She didn’t pay much attention to the commune, and they didn’t pay much attention to her. But they were plenty nice. She quite liked them, actually, except that along with societal norms and my mother, they also mostly ignored material concerns. This was fine until the day their toilet got backed up and they didn’t notice until it exploded, covering their room, oozing into the hallway, seeping under my mother’s door in waves of pungent filth.
 
   
 
@@ -97,11 +97,11 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- She hired two men, both Venezuelan immigrants, to help sort through what was left of her belongings. Like some sort of biblical catharsis, everything she owned was suddenly subject to a dichotomous *keep *or *abandon. *And on the seventh day, the men said *it is good *about the records–plastic impervious to water–but refused to bless the cardboard album covers. Sewage had seeped into the gritty pores, putrid and decaying, permanent.
+ She hired two men to help sort through what was left of her belongings. Like some sort of biblical catharsis, everything she owned was suddenly subject to a dichotomous *keep* or *abandon*. And on the seventh day, the men said *it is good* about the records–plastic impervious to water–but refused to bless the cardboard album covers. Sewage had seeped into the gritty pores, putrid and decaying, permanent.
 
   
 
- She’d loved her album covers, she told me. She loved the thin, smooth surfaces; the dappled colors; the way the collection looked when she lined the covers up and pulled out different ones to look at, like synchronized swimmers diving sideways into a pool. She was so visibly heartbroken at losing the album covers that when the men came back the next day, they brought her a record of Venezuelan music with a kaleidoscopic cover. Today it sits in the left cabinet, dressed up square and fancy next to its round, eternally naked peers.
+ She’d loved her album covers, she told me. She loved the thin, smooth surfaces; the dappled colors; the way the collection looked when she lined the covers up and pulled out different ones to look at, like synchronized swimmers diving sideways into a pool. She was so visibly heartbroken at losing the album covers that when the men – both Venezuelan immigrants – came back the next day, they brought her a record of Venezuelan music with a kaleidoscopic cover. Today it sits in the left cabinet, dressed up square and fancy next to its round, eternally naked peers.
 
   
 
@@ -145,15 +145,15 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- Every once in a while, I scroll furtively through Spotify’s selection of Sondheim and Bernstein, Rogers and Larson. The pictures here are miniscule; much smaller than my mother’s long-decayed album covers, tinier even than my plastic CD fronts. I turn my volume down low–heaven help me if anyone heard the pitchy shrieks of “It’s A Hard Knock Life” as I strut coolly past jaded brick buildings in my black turtleneck. And I press my finger reluctantly over a title (this glowing material never yields any sense of possession from my smeared fingerprints no matter how much residue I leave).
+ Every once in a while, I scroll furtively through Spotify’s selection of Sondheim and Bernstein, Rogers and Larson. The pictures here are miniscule; much smaller than my mother’s long-decayed album covers, tinier even than my plastic CD fronts. I turn my volume down low–heaven help me if anyone hears the pitchy shrieks of “It’s A Hard Knock Life” as I strut coolly past jaded brick buildings in my black turtleneck. And I press my finger reluctantly over a title (this glowing material never yields any sense of possession from my smeared fingerprints no matter how much residue I leave).
 
   
 
- The saccharine lessons, tidy aphorisms stream out of my headphones. *Though scary is exciting, / nice is different than good, *sings Little Red in *Into the Woods. Life is a cabaret! *shouts Sally Bowles in *Cabaret.*
+ The saccharine lessons, tidy aphorisms stream out of my headphones. *Though scary is exciting, / nice is different than good*, sings Little Red in *Into the Woods*. *Life is a cabaret!* shouts Sally Bowles in *Cabaret*.
 
   
 
- *No, it isn’t, *I think to myself. *This is silly.*
+ *No, it isn’t*, I think to myself. *This is silly*.
 
   
 
@@ -173,7 +173,7 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- What happened next was that these industrious pieces of musical, having ventured into virgin territory, planted a flag and plopped down criss cross applesauce for good. It’s like that story my granny used to tell me about the girl who ate so many watermelon seeds that one started growing inside of her. Too late, her parents realized, she had turned into a human watermelon. Like the Oompa Loompas’ warning–*Violet, you’re turning violet!*–musicals planted roots inside me, seeped deep into my bones, mingled with my essence at the atomic level. *Mine, *they said.
+ What happened next was that these industrious pieces of musical, having ventured into virgin territory, planted a flag and plopped down criss cross applesauce for good. It’s like that story my granny used to tell me about the girl who ate so many watermelon seeds that one started growing inside of her. Too late, her parents realized, she had turned into a human watermelon. Like the Oompa Loompas’ warning–*Violet, you’re turning violet!*–musicals planted roots inside me, seeped deep into my bones, mingled with my essence at the atomic level. *Mine*, they said.
 
   
 
@@ -185,28 +185,28 @@ My mother raised me on spoonfuls of musical theater soundtracks.
 
   
 
- There is a moment in *A Chorus Line *when Morales, my favorite character, tells the story, in a sung monologue, about her experience in an acting class. It begins when her teacher, Mr. Karp, asks them to improvise various scenes. B*e a table, be a sportscar… / ice cream cone, *he orders. Morales can’t do it. *I felt nothing, *she reports, again and again. Mr. Karp teacher humiliates her in front of the class. “I think you should transfer,” he says.
+ There is a moment in *A Chorus Line* when Morales, my favorite character, tells the story, in a sung monologue, about her experience in an acting class. It begins when her teacher, Mr. Karp, asks them to improvise various scenes. "Be a table, be a sportscar… / ice cream cone," he orders. Morales can’t do it. "I felt nothing," she reports, again and again. Mr. Karp humiliates her in front of the class. “I think you should transfer,” he says.
 
   
 
- *Try, Morales. All alone, *she urges herself, too stubborn to concede. Karp continues to hound her. Finally, she breaks down and asks Jesus for help. A voice speaks to her from on high, sending a message which she relays in a triumphant swell: *This man is nothing! / This course is nothing! / If you want something, / Go find a better class.*
+ *Try, Morales. All alone*, she urges herself, too stubborn to concede. Karp continues to hound her. Finally, she breaks down and asks Jesus for help. A voice speaks to her from on high, sending a message which she relays in a triumphant swell: "This man is nothing! / This course is nothing! / If you want something, / Go find a better class."
 
   
 
- It is a happy ending well-earned. We, the audience, relax. But the music continues. Morales has more to say. *Six months later, *she says, as the music begins to slow, *I heard that Karp had died*. Even slower: *And I dug right down to the bottom of my soul… *each word more reluctant than the next. Morales does not want to be telling this story anymore. But the music keeps playing, pulling her along.
+ It is a happy ending well-earned. We, the audience, relax. But the music continues. Morales has more to say. "Six months later," she says, as the music begins to slow, "I heard that Karp had died." Even slower: "And I dug right down to the bottom of my soul…" each word more reluctant than the next. Morales does not want to be telling this story anymore. But the music keeps playing, pulling her along.
 
   
 
- A pause here. *And cried. *Another pause.
+ A pause here. "And cried." Another pause.
 
    
-*‘Cause I felt… *three words on the same note, like a hymn, like she is praying again, this time for proof of her own empathy. A third pause.
+"Cause I felt…" three words on the same note, like a hymn, like she is praying again, this time for proof of her own empathy. A third pause.
 
   
 
- Here, a moment of limbo, perfectly engineered in performance. She gives the faintest of gasps, as if she’s only just now discovered how the story ends, as if it surprises her. Her eyes light up. The corners of her mouth curve; hopeful, like her eyes. Her neck lifts, craning into the future. It is a subtle, safe sanguineness. So that until the very last, you think she’s moving her tongue toward the middle of her roof, anticipating *s,* thatshe felt *something.*
+ Here, a moment of limbo, perfectly engineered in performance. She gives the faintest of gasps, as if she’s only just now discovered how the story ends, as if it surprises her. Her eyes light up. The corners of her mouth curve, hopeful; her neck lifts, craning into the future. It is a subtle, safe sanguineness. So that until the very last, you think she’s moving her tongue toward the middle of her roof, anticipating *s,* that she felt *something.*
 
- But alas, we cannot hide in this liminal moment forever. The song is waiting for its final note, the conclusion that will make the moment whole. So Morales pokes her tongue forward, lays it flat under her teeth, for *n. Nothing, *she sings quietly. And we realize that she has tricked us; that her eyes were filled with anguish, not hope; that the corners of her mouth turned up in a grimace of pain, that the pause was not to savor the personal victory but to build up the courage to admit a truth she is ashamed of.
+ But alas, we cannot hide in this liminal moment forever. The song is waiting for its final note, the conclusion that will make the moment whole. So Morales pokes her tongue forward, lays it flat under her teeth, for *n*. "Nothing," she sings quietly. And we realize that she has tricked us; that her eyes were filled with anguish, not hope; that the corners of her mouth turned up in a grimace of pain, that the pause was not to savor the personal victory but to build up the courage to admit a truth she is ashamed of.
 
  A tinkle of bells, and then the song is over. We are left with silence.
 
