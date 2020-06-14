@@ -41,7 +41,7 @@ class FeaturedArticlesComponent extends React.Component {
                         <span class="item-title">{post.node.frontmatter.title}</span>
                         <span class="item-author">
                             By {post.node.frontmatter.authors.map(author => (
-                                author
+                                <Link to={"contributor/"+convertToSlug(author)}>  {author}</Link>
                             ))}
                             </span>
                             <span class="title-underline"></span></li>
@@ -50,7 +50,7 @@ class FeaturedArticlesComponent extends React.Component {
                     <div class="item featured-item selected" data-item-id="{{ article.id }}">
                         <span class="item-title"><Link to={"/content/"+featured.node.frontmatter.slug}>{featured.node.frontmatter.title}</Link></span>
                         <span class="item-author">By {featured.node.frontmatter.authors.map(author => (
-                            <Link to={"contributor/"+convertToSlug(author)}>{author}</Link>
+                            <Link to={"contributor/"+convertToSlug(author)}>  {author}</Link>
                         ))}</span>
                         <span class="title-underline"></span>
                         { featured.node.frontmatter.section === "art" ?

@@ -10,9 +10,10 @@ section: "features"
 audio: []
 main_image: ""
 banner_image: ""
-images: []
+images: ["meant-to-tell-you.jpg"]
 videos: []
 ---
+
 True love is a conceptual shape: two facts swoop by each other, before asymptotically diverging. One line follows from the obvious thought: *I love you with such certainty that it could only have been preordained*. The other follows from the reply: *But clearly, when we run through the sequence of events that wound us together, every moment is full of choices that could so nearly have been otherwise*. Although, in narrating our shared history, we might feel the need to plot the convergence of necessity and choice, such a reconciliation would be false. These facts never rationally meet: their truth is in the tension that holds the strands apart, yet within the same image.
 
 The purpose of a concept is to enumerate and then to savor the distance between thought and reality. Slowly, we try to bring the two together, by imagining that reality comported itself identically to our concepts. Because our concepts remain imperfect, so too do our actions. Whatever folly results offers us a recommendation for a revision of our concepts. We adjust them, and try again. New mistakes continue to be made, of course; accuracy remains distant. Yet our hope in the project persists.

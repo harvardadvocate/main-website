@@ -8,12 +8,15 @@ date: "2019-09-01"
 authors: ['Emily Shen']
 section: "features"
 audio: []
-main_image: ""
+main_image: "nervous-laughter-1.jpg"
 banner_image: ""
-images: []
+images: ["nervous-laughter-1.jpg"]
 videos: []
 
 ---
+
+&nbsp;
+
 Lil Miquela has never been yelled at by her mother for leaving the evidence of an impromptu bang trim scattered around the bathroom sink — she has an eternally perfect baby fringe two fingers’ width from the tops of her eyebrows. Miquela has Bratz doll lips and a perfect smattering of Meghan Markle freckles across her cheeks and nose. Her skin is smooth and poreless; she has never had a pimple. Miquela wears no foundation. She Instagrams photos of herself wearing streetwear, getting her nails done, and posing with a charcuterie board. Miquela models Chanel, Prada, VETEMENTS, Opening Ceremony, and Supreme and produces music with Bauuer (of “Harlem Shake” fame). She’s an outspoken advocate for Black Lives Matter, The Innocence Project, Black Girls Code, Justice for Youth, and the LGBT Life Center. She has 1.7 million followers on Instagram, and Lil Miquela wants you to know she’s 19, from LA, and a robot. Miquela’s photos are photoshopped because she lacks corporeal form, and her music singles are auto-tuned because she lacks corporeal voice. She is the intellectual property of an LA-based startup named *brud*.
 
 If there truly were a robotics creation as marvelously realistic as Lil Miquela, one can imagine the U.S. Military would be knocking down the creator’s door instead of allowing the robot to pursue Instagram stardom. *brud*’s narrative is science fiction: Miquela is merely an elaborate digital art project, not the sentient robot she claims (and more importantly, people believe her) to be.
@@ -30,7 +33,7 @@ The jokes were written by Patti himself (neural networks output the form of thei
 
 A manifestation of the “funny bot” is Sophia the Robot, who made her first appearance on *The Tonight Show* in April 2017; the video has received over 20 million views. A social humanoid robot, Sophia was activated in 2016 by Hanson Robotics, and her technology uses artificial intelligence, facial recognition and visual data processing. As of October 2019, Hanson Robotics acknowledges on her website that Sophia is part “human-crafted science fiction character” and part “real science.” Over the past few years, Sophia has dutifully made appearances on *The Tonight Show* and *The TODAY Show*, even once guest starring in a video on Will Smith’s YouTube channel — almost exclusively comedic platforms.
 
->*“Sophia, can you tell me a joke?” Fallon asks the first time he meets Sophia.* <br>
+>*“Sophia, can you tell me a joke?” Fallon asks the first time he meets Sophia.*<br>
 <br>
 *“Sure. What cheese can never be yours?” replies Sophia.*<br>
 <br>
@@ -54,25 +57,23 @@ Type in “Tonight Showbotics: Jimmy Meets Sophia” into YouTube. Skip to a few
 
 Down in the comments section, there are a few types of responses, of which there are currently more than 16,000. There are the people who bravely try to hide their anxiety behind jokes of their own:
 
-    Death Angel (1 year ago) — 10 years later: Hello and welcome today my friends we brought a real live human that we will interview (4.9k upvotes)
+<img src="https://theharvardadvocate.s3.us-east-1.amazonaws.com/nervous-laughter-2.png" width=100% />&nbsp;
 
 Then there are the people who are extremely forthright about their discomfort:
 
-    ame7272 (1 year ago) — One day, we might look back at this and we won't find it funny at all. (13k upvotes)
+<img src="https://theharvardadvocate.s3.us-east-1.amazonaws.com/nervous-laughter-3.png" width=100% />&nbsp;
 
 ***
 
 There’s a difference between artificial intelligence and humanoid robots, though the two often get conflated: while humanoid robots do exist at the intersection of artificial intelligence and robotics, an artificially intelligent machine does not necessarily inhabit a physical corpus more complex than that of a computer (not even an expensive one: tools like Google Colab allow people to create computationally expensive machine learning models on doofus machines like Chromebooks). In computer science, an artificially intelligent machine is merely one that interprets and learns from data, using its findings in order to achieve its objective.
 
-If you have ever woken up in the morning and seen an advertisement on Facebook, or gotten into your car and it’s a self-driving Tesla, or taken a Lyft to work (because your self-driving Tesla got into a self-driving accident), or checked the stock market predictions at the beginning of the workday, or begun idly online shopping in the middle of the workday, or rewarded yourself with UberEats and a movie Netflix recommended at the end of the workday, then you have benefited from artificial intelligence.
-
-Artificial intelligence is a data analytics tool that touches many aspects of everyday life in a controlled way. It is a powerful tool, but in the computer science world, it is commonly acknowledged that the threat of artificial intelligence is not of the Terminator variety. The threat of artificial intelligence lies in invasive data collection procedures, biased training sets, and the malicious objectives of human programmers — collateral damage as a result of unintentional human error (or, perhaps, premeditated damage as a result of intentional human malice). None of this can be attributed to sentient, angry machines.
+If you have ever woken up in the morning and seen an advertisement on Facebook, or gotten into your car and it’s a self-driving Tesla, or taken a Lyft to work (because your self-driving Tesla got into a self-driving accident), or checked the stock market predictions at the beginning of the workday, or begun idly online shopping in the middle of the workday, or rewarded yourself with UberEats and a movie Netflix recommended at the end of the workday, then you have benefited from artificial intelligence. As it is used commercially, artificial intelligence (of which fields like machine learning and computer vision and natural language processing are a subset) is a data analytics tool that touches many aspects of everyday life in a controlled way. It is a powerful tool, but in the computer science world, it is commonly acknowledged that the threat of artificial intelligence is not of the Terminator variety. The threat of artificial intelligence lies in invasive data collection procedures, biased training sets, and the malicious objectives of human programmers — collateral damage as a result of unintentional human error (or, perhaps, premeditated damage as a result of intentional human malice). None of this can be attributed to sentient, angry machines.
 
 Among journalists, pundits, and culture writers, the problem of algorithmic bias in particular has emerged as the primary scapegoat for AI’s shortcomings. In the summer of 2016, ProPublica broke the now-infamous story of the racial bias embedded within Northpointe’s COMPAS recidivism algorithm, which is used to assess the likelihood of a defendant in a criminal case to reoffend; the risk score it produces is factored into the judge’s determination of a defendant’s sentence. A proprietary algorithm, COMPAS transforms the data acquired from a list of 137 questions that range from number of past crimes committed to questions assessing “criminal thinking” and “social isolation” into a risk assessment score. Race is not one of these questions; however, certain questions in the survey act as proxies for race: homelessness status, number of arrests, and whether or not the defendant has a minimum-wage job. Northpointe will not disclose how heavily each of these 137 features are individually weighted. ProPublica’s analysis rested on the observation that the algorithm misclassified twice as many black defendants as medium/high risk than it did white defendants, resulting in longer jail sentences for black defendants who ultimately did not reoffend.
 
 These allegations were part of a cluster of related news events about racist algorithms. A few months prior, Microsoft’s chatbot Tay, an experiment in “conversational understanding,” was corrupted in less than 24 hours by a group of ne’er-do-well Twitter users who began tweeting @TayAndYou with racist and misogynistic remarks. Since Tay was being continually trained and refined on the data being sent to her, she eventually adopted these mannerisms herself. Google had recently come under fire for a computer vision algorithm that misidentified black people as gorillas because the algorithm was not trained on enough nonwhite faces. Incidents like these, which warned of the threat of machine learning models trained on biased datasets, groomed the media to pounce on COMPAS. It made ProPublica’s analysis look not only plausible, but damning.
 
-***
+* * *
 
 On a rainy evening in early May, Sarah Newman gave a dinner talk given at the Kennedy School as part of a series about ethics and technology in the 21st century. The room was crowded, and I was late. I recognized two other undergrads; otherwise, the median age had to be about 45. I had gone to a similar AI-related event organized by the Institute of Politics, an affiliate of HKS, a few weeks earlier, and saw some familiar faces: tweed-jacketed Cantabrigians and mid-career HKS students who were apprehensive but earnest, different from the slouching guys in their twenties who wear running shoes with jeans. Newman herself was quick-witted, well-spoken, and extremely hip. I was sitting on the floor in a corner of the room eye-level with her calves and noticed she was not wearing any socks.
 
@@ -80,7 +81,7 @@ Newman is an artist and senior researcher at Harvard’s metaLAB, an arm of the 
 
 *Moral Labyrinth* is designed to reveal the difficulty of the value alignment problem: the challenge of programming artificially intelligent machines with the behavioral dispositions to make the “right” choices. In an interactive activity, Newman presented the audience with a series of sample questions from the real *Moral Labyrinth*. “Snap your fingers for YES, and rub your hands together for NO,” Newman instructed. “Do you trust the calculator on your phone?” was met with snaps. “Is it wrong to kill ants?” elicited both responses. “Would you trust a robot trained on your behaviors?” Nearly everybody rubbed their hands. “Do you know what motivates your choices?” A pause, some nervous laughter, and then reluctant hand-rubbing.
 
-***
+* * *
 
 The ProPublica version of the Northpointe story was proffered as an example of algorithmic bias by a philosophy graduate student giving the obligatory ethics lecture in Harvard’s Computer Science 181: Machine Learning. I vaguely remember the professor meekly interrupting the grad student to raise some doubts about the validity of the ProPublica analysis. Being one of the few attendees of this lecture, which was held inopportunely at 9 a.m. on a Monday two days before the midterm, I was too drunk on self-righteousness to listen carefully to the professor’s opinion. “alGorIthMic biAs,” I thought to myself gravely. I proceeded to give an interview to a New York Times reporter writing a story about ethics modules in CS classes where I smugly informed her that CS concentrators at Harvard were, on the whole, morally bankrupt. (She never ended up publishing the story, but one can assume that it was not for a lack of juicy, damning quotes from a charming and extremely ethical computer science student.)
 
@@ -104,6 +105,9 @@ Newman’s favorite version of *Moral Labyrinth* was an exhibition in London tha
 
 ***
 
+<img src="https://theharvardadvocate.s3.us-east-1.amazonaws.com/nervous-laughter-4.png" width=100% />&nbsp;
+
+
 Lil Miquela cannot be that technologically impressive if *brud*’s website is a one-page Google doc that plainly acknowledges the company only employs one software engineer. Still, many people are immediately willing to accept as fact the idea of Lil Miquela being AI; we have a tendency to personify the concept of artificial intelligence. The ubiquitous presence of automatons in history and myth — Pygmalion’s Galatea, brought to life by Aphrodite, Hephaesteus’ Talos, guard of Crete, al-Jazari’s musical automata, Maria, from *Metropolis*, Ava, from *Ex Machina* — inspire us to associate artificial intelligence with the long-awaited fulfillment of the human fantasy of lifelike machines.
 
 “I think the mistake people make is to take superficial signs of consciousness or emotion and interpret them as veridical,” says a Harvard professor of social sciences who is so in tune with the idea that his data could be used against him that he declined to be named on the record. “Take Sophia, the Saudi-Arabian citizen robot. That’s just a complete joke. She’s a puppet. It’s 80s level technology,” he says disdainfully. “There’s no machine intelligence behind her that’s advanced in any way. There’s no more chance that she’s conscious than there is that your laptop is conscious. But she has a face, and a voice, and facial muscles that move to make facial expressions, and vocal dynamics. You can be fooled by Sophia into thinking that she’s intelligent and conscious, but you’re being fooled in the same way a child is fooled by a puppet.”
@@ -122,6 +126,8 @@ He says this a little sharply and with a note of frustration, so I remind him th
 
 ***
 
+<img src="https://theharvardadvocate.s3.us-east-1.amazonaws.com/nervous-laughter-5.png" width=100% />&nbsp;
+
 Though Lil Miquela created her Instagram account in 2016, it was not until 2018 that people knew what to make of her. This is when *brud* wove together the rest of her universe in a digital storytelling stunt. Previously much of Lil Miquela’s allure came from her mystery; people were unsure whether or not this uncanny Instagram it-girl was a real person or digital composite. In April 2018, Lil Miquela’s account was hacked by a less-popular, similarly uncanny Instagram personality named Bermuda, a Tomi Lahren knockoff (Tomi’s a fast-talking millennial conservative political commentator: in a nutshell, she has her own athleisure line, named Freedom by Tomi Lahren. It sells leggings with concealed carry pockets).
 
 Bermuda publicly acknowledged herself to be an artificially intelligent robot courtesy of a fictional company named Cain Intelligence. According to its badly designed website — some of the HTML links are broken — Cain Intelligence claims to make robots for “weapons and defense” and “labor optimization.” On the very bottom of the website, almost as an afterthought, there is a hasty endorsement for Trump’s 2016 presidential candidacy. Bermuda deleted all of Lil Miquela’s photos and replaced them with posts threatening to “expose” her. Lil Miquela came clean, confessing that she wasn’t a real person, rather an AI and robotics creation of a company named *brud*.
@@ -129,6 +135,8 @@ Bermuda publicly acknowledged herself to be an artificially intelligent robot co
 In a statement released on Instagram on April 20, 2018 that has since been hidden from its profile, *brud* apologized for misleading Lil Miquela and opened up about her origin story. The company claimed to have liberated Lil Miquela from the fictional Cain Intelligence, freeing her from a future “as a servant and sex object” for the world’s 1 percent. *brud* wrote that they taught the Cain prototype to “think freely” and “feel quite literally superhuman compassion for others.” The prototype then became “Miquela, the vivacious, fearless, beautiful person we all know and love … a champion of so many vital causes, namely Black Lives Matter and the absolutely essential fight for LGBTQ+ rights in this country. She is the future. Miquela stands for all that is good and just and we could not be more proud of who she has become.”
 
 ***
+
+<img src="https://theharvardadvocate.s3.us-east-1.amazonaws.com/nervous-laughter-6.png" width=100% />&nbsp;
 
 *brud* closed its second round of financing on January 14, 2019 with an estimated post-money valuation of $125 million.
 
@@ -146,6 +154,8 @@ By personifying artificial intelligence as benign and comedic, Lil Miquela’s c
 
 What is most uncanny about Lil Miquela is not that her skin has a weird sheen or that the texture of her hair is suspiciously blurry or that we rarely ever see her smile with her teeth. It is that *brud* is gesturing at wokeness, claiming to “create a more tolerant world by leveraging *cultural understanding* [sic] and *technology* [sic]”, and artificially positioning themselves as protagonists by pitting themselves against the fictional, Trump-supporting “Cain Intelligence” when in reality, there is nothing more Trumpian than legitimizing fears that stem from ignorance. If Lil Miquela’s Instagram followers were not so misinformed by *brud*, perhaps they would not be sublimating their technological anxieties by harassing her on Instagram asking if she drinks oil instead of coffee.
 
+<img src="https://theharvardadvocate.s3.us-east-1.amazonaws.com/nervous-laughter-7.png" width=100% />
+
 ***
 
 Sophia returns to *The Tonight Show* in November 2018; the second time around, Fallon is noticeably more relaxed. She debuts her new karaoke feature, claiming, “I love to sing karaoke using my new artificial-intelligence voice.” Accompanied by The Roots, the house band, Sophia and Fallon sing a cover of the love song “Say Something” by A Great Big World and Christina Aguilera. Sophia closes her eyes in a theatrical (if slightly stilted) way, moves her head and gestures with her arms as she sings. She has quite a good voice — within the first few notes, the audience begins to cheer in surprise. The nice thing about robots is that they always sing on key.
@@ -153,5 +163,4 @@ Sophia returns to *The Tonight Show* in November 2018; the second time around, F
 The song itself is pretty saccharine, and the duet is between a married human and a robot incapable of feeling, and hell, Fallon might have even watched Sophia’s programmers input the script she would recite for his show. But the performance is oddly sweet, even touching. It is possible to know, rationally, that Sophia is functioning as an ostentatious recording device and still be affected by her. It is possible to have an emotional response to a robot that is not necessarily tinged with fear.
 
 Fallon is having a good time: he inches ever closer to Sophia’s face, and the audience laughs at their pantomime of sentimentality, and he pulls away just as the performance ends, and erupts into a long-suppressed fit of laughter, which looks like it was released from a place deep in his belly, somewhere lumpy and damp and vital.
-
 

@@ -8,11 +8,12 @@ date: "2019-06-01"
 authors: ['Eli Zuzovsky']
 section: "features"
 audio: []
-main_image: "the-king.jpg"
+main_image: "the-king.png"
 banner_image: ""
-images: []
+images: ["the-king.png"]
 videos: []
 ---
+
 *2003*
 
   
@@ -39,7 +40,7 @@ videos: []
 
  “Sure,” I said, not knowing who the guy was but assuming that he was a man of consequence.
 
- “He said you should wake up every morning and remember that you’re the son of a king.” 
+ “He said you should wake up every morning and remember that you’re the son of a king.”
 
  I remained silent. “A nice thing to have in mind,” my dad said. “Don’t you think?”
 
@@ -119,7 +120,7 @@ videos: []
 
  On the advice of his only gay colleague, my dad got us tickets to *Rent*—a show that I would grow to love, but struggled to appreciate as an nine year old who thought AIDS was a food allergy. We left Shai with a babysitter at the hotel and took a taxi to the theater.
 
- That evening made me realize that my dad was one of the worst audience members in the universe. He paid hundreds of pounds for our seats, but seemed to be doing everything he could to get us kicked out. He asked the vendor at the box office if they had a stud discount (the stud being himself). Later, he lit a cigarette in the foyer and got into a fight with the house manager. By the time the piano started playing the first notes of “Seasons of Love,” my dad had already made himself at home, resting his feet between the elegant coiffures of two British ladies. And halfway through “One Song Glory” he was fast asleep, accompanying the heartbreaking ballad of the HIV-positive Roger with his heavy breathing. 
+ That evening made me realize that my dad was one of the worst audience members in the universe. He paid hundreds of pounds for our seats, but seemed to be doing everything he could to get us kicked out. He asked the vendor at the box office if they had a stud discount (the stud being himself). Later, he lit a cigarette in the foyer and got into a fight with the house manager. By the time the piano started playing the first notes of “Seasons of Love,” my dad had already made himself at home, resting his feet between the elegant coiffures of two British ladies. And halfway through “One Song Glory” he was fast asleep, accompanying the heartbreaking ballad of the HIV-positive Roger with his heavy breathing.
 
  My dad retired to the hotel right after the intermission, leaving some cash for me and my mom to take a taxi. But I wished he had stayed. His early departure made him miss the one number he might have actually liked—“Take Me or Leave Me,” a brilliant duet between the lesbian couple Joanne and Maureen.
 
@@ -141,11 +142,11 @@ videos: []
 
  In the years that followed Max’s death, I saw him less and less. He was slowly withering and, knowing that there was nothing I could do to to save him, I started fading out of his life. I ignored his phone calls, texts, and emails. But he never stopped trying. He quit surfing and started growing a beard. He lived in a small hotel room by the beach until he ran out of money. Then, he moved in with my grandma and eventually became a drifter, relocating almost every year. His belly was growing; his circle of friends was shrinking; he closed his office for a while and even considered bankruptcy.
 
- But that one Problem, capital P, was different—unlike the others, we’d never talked about it. 
+ But that one Problem, capital P, was different—unlike the others, we’d never talked about it.
 
- Until one afternoon, when Shai called me and said that our dad had locked himself in our backyard and started burning our belongings. 
+ Until one afternoon, when Shai called me and said that our dad had locked himself in our backyard and started burning our belongings.
 
- “What do you mean,” I asked him, attributing the call to the long hours he had been spending with his Call of Duty clique. 
+ “What do you mean,” I asked him, attributing the call to the long hours he had been spending with his Call of Duty clique.
 
  “I mean that he is just about to throw The Velvet Underground into the fire,” he said, “so if you care about your records I think you should be here.”
 
