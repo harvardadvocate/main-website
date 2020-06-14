@@ -15,7 +15,12 @@ function convertToSlug(Text)
 export default ({ data }) => {
   const post = data.markdownRemark;
   return (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:post.frontmatter.title,
+            images:post.frontmatter.images[0]
+        }}
+    >
         <div class = "container">
             <article class="{post.frontmatter.section}">
                 <h1 class="article-title">{post.frontmatter.title}</h1>

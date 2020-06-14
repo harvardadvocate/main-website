@@ -2,7 +2,11 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
-    <Layout>
+    <Layout
+    pageMeta={{
+        title:"Success"
+    }}
+    >
         <div className="container">
             <div class="row">
             <h1 className="header">THANK YOU!</h1>

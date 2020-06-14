@@ -2,7 +2,11 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:"Submit"
+        }}
+    >
         <div class="container">
             <h1 class="header">SUBMISSION GUIDELINES</h1>
             <div className="center">
@@ -16,7 +20,7 @@ export default () => (
             </div>
             <p></p>
             <p></p>
-            <div class="center"> 
+            <div class="center">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" class="btn btn-primary btn-150th">FICTION</a>
             </div>
             <ul>
@@ -30,7 +34,7 @@ export default () => (
                 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:fiction@theharvardadvocate.com ">fiction@theharvardadvocate.com </a>
             </div>
             <p></p>
-            <div class="center"> 
+            <div class="center">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link" class="btn btn-primary btn-150th">POETRY</a>
             </div>
             <ul>
@@ -45,7 +49,7 @@ export default () => (
                 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:poetry@theharvardadvocate.com ">poetry@theharvardadvocate.com </a>
             </div>
             <p></p>
-            <div class="center"> 
+            <div class="center">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link" class="btn btn-primary btn-150th">ART</a>
             </div>
             <div class="center">

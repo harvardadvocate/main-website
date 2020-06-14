@@ -44,10 +44,14 @@ query($section: String!, $issue_full_name: String!) {
 `
 
 export default ({data, pageContext}) => (
-  <Layout>
+  <Layout
+    pageMeta={{
+      title:pageContext.section.charAt(0).toUpperCase() + pageContext.section.slice(1)
+  }}
+  >
       <FeaturedArticlesComponent articles={data.top_five_articles.edges} metadata={data.metadata}/>
-      <Archive  section={pageContext.section} 
-                issue_full_name={pageContext.issue_full_name} 
+      <Archive  section={pageContext.section}
+                issue_full_name={pageContext.issue_full_name}
                 issue_full_names={data.issue_full_names}
                 articles={data.archive_articles.edges}/>
   </Layout>

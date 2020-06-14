@@ -2,7 +2,11 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:"Donate"
+        }}
+    >
         <div className="container">
             <div class="row">
             <h1 className="header">DONATE</h1>
@@ -19,9 +23,9 @@ export default () => (
             <div class="row">
                 <div style={{margin: "40px auto 0px auto", background: "#ffffff", maxWidth: "400px", padding: "20px"}}>
                 <script src="https://donorbox.org/widget.js" paypalexpress="false"></script>
-                
-                <iframe src="https://donorbox.org/embed/harvardadvocate?amount=30" 
-                height="800" width="100%" style={{maxWidth:"500px", maxHeight:"none"}} seamless="seamless" 
+
+                <iframe src="https://donorbox.org/embed/harvardadvocate?amount=30"
+                height="800" width="100%" style={{maxWidth:"500px", maxHeight:"none"}} seamless="seamless"
                 name="donorbox" frameBorder="0" scrolling="no" allowpaymentrequest="true" title="paypalIframe"></iframe>
                 </div>
             </div>

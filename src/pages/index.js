@@ -100,7 +100,11 @@ export const query = graphql`
 `
 
 export default ({data}) => (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:"The Harvard Advocate"
+        }}
+    >
         <div class="homepage">
             <section class="top-features">
                 <div class="container-left-half" id="feature-1">

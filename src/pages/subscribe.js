@@ -3,7 +3,11 @@ import Layout from "../components/layout"
 import Subscribe from "../components/stripe_checkout"
 
 export default () => (
-    <Layout>
+    <Layout
+    pageMeta={{
+        title:"Subscribe"
+    }}
+    >
         <div className="container">
             <div class="row">
             <h1 className="header">SUBSCRIBE</h1>
