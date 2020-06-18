@@ -8,9 +8,9 @@ date: "2020-03-01"
 authors: ['Rebecca Cadenhead']
 section: "features"
 audio: []
-main_image: "my-first-blood.png"
+main_image: []
 banner_image: ""
-images: ["my-first-blood.png"]
+images: []
 videos: []
 ---
 
