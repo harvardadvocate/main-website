@@ -10,7 +10,7 @@ section: "features"
 audio: []
 main_image: "my-first-blood.png"
 banner_image: ""
-images: ["my-first-blood.png"]
+images: ["MyFirstBlood2.jpg"]
 videos: []
 ---
 
