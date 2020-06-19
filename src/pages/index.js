@@ -110,7 +110,7 @@ export default ({data}) => (
                     <div class="feature-image-container-large">
                     <div class="feature-image" id="feature-1-image">
                     <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                        <Image name="my-first-blood.png"/>
+                        <Image name="MyFirstBlood2.jpg"/>
                     </Link>
                     </div>
                     </div>
