@@ -176,7 +176,7 @@ export default ({data}) => (
                         <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
-                                    <Image name = "summer-2019.png"/>
+                                    <Image name = "winter-2020.png"/>
                                 </div>
                             </div>
                         </Link>
