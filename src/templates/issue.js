@@ -15,7 +15,11 @@ function convertToSlug(Text)
 
 export default ({ data, pageContext }) => {
   return (
-    <Layout>
+    <Layout
+      pageMeta={{
+        title:pageContext.issue_full_name
+    }}
+    >
         <div class="container">
             <h1 class="header"> {pageContext.issue_full_name} </h1>
             <div class = "row">
@@ -142,6 +146,6 @@ query($issue_full_name: String!) {
             }
           }
         }
-      }     
+      }
   }
 `

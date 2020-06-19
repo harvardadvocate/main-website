@@ -15,7 +15,11 @@ function convertToSlug(Text)
 
 export default ({ data, pageContext}) => {
   return (
-    <Layout>
+    <Layout
+      pageMeta={{
+        title:pageContext.author
+    }}
+    >
       <div class = "container">
           <h1 class="article-title">{pageContext.author.toUpperCase()}</h1>
           <div class="section-article">
@@ -26,7 +30,7 @@ export default ({ data, pageContext}) => {
           {/* {% for article in article.contributors.all %}
                 <h2 class="article-author"> {{ article.name }}</h2>
           {% endfor %}
-          
+
           {% for article  in articles%}
 
             <p class="name"><a href="{{ article.get_absolute_url }}">{{article.title}}</a> <p class="issue">{{article.issue}} </p> </p>
@@ -48,6 +52,6 @@ query($author: String!) {
         }
       }
     }
-  }     
+  }
 }
 `

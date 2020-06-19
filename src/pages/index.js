@@ -100,7 +100,11 @@ export const query = graphql`
 `
 
 export default ({data}) => (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:"The Harvard Advocate"
+        }}
+    >
         <div class="homepage">
             <section class="top-features">
                 <div class="container-left-half" id="feature-1">
@@ -110,7 +114,7 @@ export default ({data}) => (
                     <div class="feature-image-container-large">
                     <div class="feature-image" id="feature-1-image">
                     <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                        <Image name="MyFirstBlood2.jpg"/>
+                        <Image name="MyFirstBlood2.png"/>
                     </Link>
                     </div>
                     </div>
@@ -172,7 +176,7 @@ export default ({data}) => (
                         <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
-                                    <Image name = "summer-2019.png"/>
+                                    <Image name = "winter-2020.png"/>
                                 </div>
                             </div>
                         </Link>

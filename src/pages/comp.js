@@ -3,7 +3,11 @@ import Layout from "../components/layout"
 import { Link } from "gatsby"
 import Image from "../components/image"
 export default () => (
-   <Layout>
+   <Layout
+        pageMeta={{
+            title:"Comp"
+        }}
+    >
         <div class="container">
             <h1 class="header">Spring 2020 COMP</h1>
                 <figure>
@@ -11,15 +15,15 @@ export default () => (
                 </figure>
             <p></p>
             <p class="text">
-                Between its seven boards:  Art, Business, Design, Features, Fiction, Poetry and Technology, The Harvard Advocate 
-                provides a home for writers, artists, critics, designers, coders, dealmakers, and all others with an interest in the arts and 
+                Between its seven boards:  Art, Business, Design, Features, Fiction, Poetry and Technology, The Harvard Advocate
+                provides a home for writers, artists, critics, designers, coders, dealmakers, and all others with an interest in the arts and
                 letters. Every semester, <i>The Advocate</i> selects new members through a “Comp” process open to all Harvard undergraduates.
             </p>
             <p></p>
             <p class="text">
-                Compers are evaluated exclusively on their ability to discuss, write about, create, design, sell, or code art. Though our 
-                comp is selective, our hope is that all participants will find it an enriching and rewarding experience. Please direct specific 
-                questions about the comp to the <Link to="about">editor of the board</Link> that you are interested 
+                Compers are evaluated exclusively on their ability to discuss, write about, create, design, sell, or code art. Though our
+                comp is selective, our hope is that all participants will find it an enriching and rewarding experience. Please direct specific
+                questions about the comp to the <Link to="about">editor of the board</Link> that you are interested
                 in comping.
             </p>
             <p></p>

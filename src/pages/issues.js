@@ -37,7 +37,11 @@ export default ({data}) => {
     issue_full_names.sort(issue_full_date_compare)
     issue_full_names.reverse()
     return (
-        <Layout>
+        <Layout
+            pageMeta={{
+                title:"Issues"
+            }}
+        >
             <div class="container">
                 {issue_full_names.map( (issue_full_name, i) => {
                     if ((i + 1) % 4 === 0) {
@@ -64,7 +68,7 @@ export default ({data}) => {
                                         </Link>
                                     </figure>
                                 </div>
-                            )              
+                            )
                     }
                 })}
             </div>

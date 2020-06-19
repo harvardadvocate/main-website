@@ -2,7 +2,11 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:"About"
+        }}
+    >
     <div className="container">
         <h1 className="header">ABOUT US</h1>
         <p className="text text-center"> <i>The Harvard Advocate</i>, founded in 1866, is the oldest continuously published collegiate literary magazine in the country. Over its long history, it can count T.S. Eliot, Conrad Aiken, and Norman Mailer among its members and e.e. cummings, Jack Kerouac, and Tom Wolfe as contributors to its pages. A quarterly magazine, <i>The Advocate</i>'s mission is to publish the best art, fiction, poetry, and prose that the Harvard undergraduate community offers. </p>
@@ -64,6 +68,6 @@ export default () => (
             <li>ELYSE PHAM</li>
         </ul>
     </div>
-    
+
     </Layout>
 )
