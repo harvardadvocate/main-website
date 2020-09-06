@@ -18,14 +18,7 @@ export default () => (
                 In lieu of a comp, we will be hosting open events, workshops, and projects — all of which will provide opportunities for new students
                 to become involved in Advocate life. Please fill out the form linked here if you would like to be kept in the loop about ways to participate
                 in Advocate activities this semester. We anticipate returning to our comp cycle in Spring 2021, with a redesigned comp that responds to the
-                structure of the spring term. 
-            </p>
-            <p></p>
-            <p class="text">
-                Compers are evaluated exclusively on their ability to discuss, write about, create, design, sell, or code art. Though our
-                comp is selective, our hope is that all participants will find it an enriching and rewarding experience. Please direct specific
-                questions about the comp to the <Link to="about">editor of the board</Link> that you are interested
-                in comping.
+                structure of the spring term.
             </p>
             <p></p>
         </div>
