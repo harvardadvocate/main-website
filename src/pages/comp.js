@@ -9,15 +9,16 @@ export default () => (
         }}
     >
         <div class="container">
-            <h1 class="header">Spring 2020 COMP</h1>
-                <figure>
-                    <Image name="advo2020Springcomp.jpg" style={{margin:"auto", width:"75%"}} align="middle"/>
-                </figure>
+            <h1 class="header">Fall 2020 COMP</h1>
             <p></p>
             <p class="text">
-                Between its seven boards:  Art, Business, Design, Features, Fiction, Poetry and Technology, The Harvard Advocate
-                provides a home for writers, artists, critics, designers, coders, dealmakers, and all others with an interest in the arts and
-                letters. Every semester, <i>The Advocate</i> selects new members through a “Comp” process open to all Harvard undergraduates.
+                Unfortunately, due to the limitations imposed by the remote fall semester, The Harvard Advocate has decided to suspend its planned
+                Fall 2020 comp. We feel that holding a comp remotely at present would pose issues of accessibility, due to varying degrees of access
+                to digital resources, while preventing the magazine from welcoming new members to our community in a meaningful and substantive way.
+                In lieu of a comp, we will be hosting open events, workshops, and projects — all of which will provide opportunities for new students
+                to become involved in Advocate life. Please fill out the form linked here if you would like to be kept in the loop about ways to participate
+                in Advocate activities this semester. We anticipate returning to our comp cycle in Spring 2021, with a redesigned comp that responds to the
+                structure of the spring term. 
             </p>
             <p></p>
             <p class="text">
@@ -27,21 +28,6 @@ export default () => (
                 in comping.
             </p>
             <p></p>
-            <p className="text center">
-            If you are interested in learning more about our comp, please fill out <a href="https://forms.gle/X4NfhzVgDsBcFUyaA">this comp interest form</a> and contact the relevant board head:
-            </p>
-            <p></p>
-            <div class="center">
-                <ul>
-                    <li style={{listStyleType: "none"}}>art@theharvardadvocate.com</li>
-                    <li style={{listStyleType: "none"}}>design@theharvardadvocate.com</li>
-                    <li style={{listStyleType: "none"}}>business@theharvardadvocate.com</li>
-                    <li style={{listStyleType: "none"}}>features@theharvardadvocate.com</li>
-                    <li style={{listStyleType: "none"}}>fiction@theharvardadvocate.com</li>
-                    <li style={{listStyleType: "none"}}>poetry@theharvardadvocate.com</li>
-                    <li style={{listStyleType: "none"}}>tech@theharvardadvocate.com</li>
-                </ul>
-            </div>
         </div>
    </Layout>
 )
