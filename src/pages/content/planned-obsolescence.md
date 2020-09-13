@@ -78,7 +78,7 @@ I had a version of you and I would describe it as a version that was funny and l
 
 5.
 
-James Mickens, associate professor of computer science at Harvard, wrote a series of six humorous articles for USENIX, the Advanced Computing Systems Association that, in his own words, “collectively form a breathtaking magnum opus on science, philosophy, and the reasons why JavaScript is horrible.” This is what he has to say about touchscreens:
+James Mickens, associate professor of computer science at Harvard, wrote a series of six humorous articles for USENIX — the Advanced Computing Systems Association — that, in his own words, “collectively form a breathtaking magnum opus on science, philosophy, and the reasons why JavaScript is horrible.” This is what he has to say about touchscreens:
 
 >Touchscreens are the only commodities which depreciate faster than automobiles. As soon as you unwrap your phone or tablet, the touchscreen starts to die … Phones and tablets apparently require Planck-scale mechanical alignments, such that merely looking at the touchscreen introduces fundamental, quantum dynamical changes in the touchscreen’s dilithium crystals. Thus, if you place your touchscreen on anything, ever, you have made a severe and irreversible life mistake.
 

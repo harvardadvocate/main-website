@@ -4,7 +4,7 @@ slug: "land-in-sight"
 issue: "Winter"
 issue_full_name: "Winter 2020"
 year: "2020"
-date: "2020-02-01"
+date: "2020-01-01"
 authors: ['Owen Torrey']
 section: "poetry"
 audio: []
@@ -14,24 +14,24 @@ images: []
 videos: []
 ---
 
-If I had faults to speak of they would be  
-That I’m bad at pretending to be working.  
-Summer is meant to make you sweat and if  
-Your skin isn’t sloppy enough you best pack  
-Up, leave earth by latest May. I don’t think  
-You would need to sweat in space because  
-There’s no one there to tell you to. Here there  
-Are pools on earth, mostly lakes, and some  
-What oceans. Slacking off at work, I found  
-Myself watching footage of the moon landing,  
-With arrows showing wires pulling men across  
-The so-called “moon.” Accidentally, my sound  
-Was on. There are parts of the ocean so deep  
-They make a noise like high, the highest thing—  
-And my boss once told me her dad believed  
-He picked up, from his radio, the distress calls  
-Amelia Earhart sent before she died. So I’m wide  
-With apology when she hears about the moon  
-Landing, across the room, having happened ֥  
-"Here on earth." I didn't want you to find out  
-Like this, I tell her. Now there’s nowhere to go.  
+If I had faults to speak of they would be
+That I’m bad at pretending to be working.
+Summer is meant to make you sweat and if
+Your skin isn’t sloppy enough you best pack
+Up, leave earth by latest May. I don’t think
+You would need to sweat in space because
+There’s no one there to tell you to. Here there
+Are pools on earth, mostly lakes, and some
+What oceans. Slacking off at work, I found
+Myself watching footage of the moon landing,
+With arrows showing wires pulling men across
+The so-called “moon.” Accidentally, my sound
+Was on. There are parts of the ocean so deep
+They make a noise like high, the highest thing—
+And my boss once told me her dad believed
+He picked up, from his radio, the distress calls
+Amelia Earhart sent before she died. So I’m wide
+With apology when she hears about the moon
+Landing, across the room, having happened ֥
+"Here on earth." I didn't want you to find out
+Like this, I tell her. Now there’s nowhere to go.
