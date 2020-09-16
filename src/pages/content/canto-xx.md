@@ -4,7 +4,7 @@ slug: "canto-xx"
 issue: "Winter"
 issue_full_name: "Winter 2020"
 year: "2020"
-date: "2020-02-01"
+date: "2020-01-01"
 authors: ['Dan Beachy-Quick']
 section: "poetry"
 audio: []
@@ -13,7 +13,7 @@ banner_image: ""
 images: []
 videos: []
 ---
-*—for Patrick Pethybridge*  
+*—for Patrick Pethybridge*
 <br>
 
 , the no-tongue bell

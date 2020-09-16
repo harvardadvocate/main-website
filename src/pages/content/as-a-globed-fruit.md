@@ -4,7 +4,7 @@ slug: "as-a-globed-fruit"
 issue: "Spring"
 issue_full_name: "Spring 2020"
 year: "2020"
-date: "2020-05-09"
+date: "2020-03-01"
 authors: ['Ezra Lebovitz']
 section: "poetry"
 audio: []
@@ -15,40 +15,40 @@ videos: []
 ---
 
 
-This time, I want it to be simple: say you are  
-a fresh, cool lemon. Your rind is dotted with wet.  
+This time, I want it to be simple: say you are
+a fresh, cool lemon. Your rind is dotted with wet.
 
-Say I have a tongue and lick away the wetness,  
-have hands and excavate the seeds.  
+Say I have a tongue and lick away the wetness,
+have hands and excavate the seeds.
 
-I pull you out of yourself. I raise newness.  
-Everything tastes yellow and the sea-line is a line  
+I pull you out of yourself. I raise newness.
+Everything tastes yellow and the sea-line is a line
 
-down my throat. The lemon is a line across  
-the sky and that too is what you are: everything  
+down my throat. The lemon is a line across
+the sky and that too is what you are: everything
 
-mistaken for something else, the citrus getting larger, blooming.  
-Are you blooming? Are you in bloom? Tell me how you feel.  
+mistaken for something else, the citrus getting larger, blooming.
+Are you blooming? Are you in bloom? Tell me how you feel.
 
-You don’t have to be a lemon if you don’t want to.  
-The rind could slip from my hand, if you asked for it.  
+You don’t have to be a lemon if you don’t want to.
+The rind could slip from my hand, if you asked for it.
 
-I only want to speak to you. I’ve known lemons before:  
-tendrils of fruit clutching to the white, hand unhooked,  
+I only want to speak to you. I’ve known lemons before:
+tendrils of fruit clutching to the white, hand unhooked,
 
-every cold, flowered thing giving way to water. Things change  
-when I speak and fruits flower, open slowly, without knowing it.  
+every cold, flowered thing giving way to water. Things change
+when I speak and fruits flower, open slowly, without knowing it.
 
-Try this: the dig of your finger under stem, stopping  
-crooked between flesh and peel. So what if when I dream  
+Try this: the dig of your finger under stem, stopping
+crooked between flesh and peel. So what if when I dream
 
-I dream citrus? I can taste even the farthest slick of air,  
-unlace semblance from skin. I can feed in pieces.  
+I dream citrus? I can taste even the farthest slick of air,
+unlace semblance from skin. I can feed in pieces.
 
-When I call out your name, it is your name  
-before it is anything else.  
+When I call out your name, it is your name
+before it is anything else.
 
-Later, I can ask you about the rest.  
+Later, I can ask you about the rest.
 
 <br>
 <br>

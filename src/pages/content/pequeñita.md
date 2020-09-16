@@ -4,7 +4,7 @@ slug: "pequeñita"
 issue: "Spring"
 issue_full_name: "Fall 2019"
 year: "2019"
-date: "2019-11-01"
+date: "2019-09-01"
 authors: ['Alexa Lemoine']
 section: "poetry"
 audio: []
@@ -14,47 +14,47 @@ images: []
 videos: []
 ---
 <pre>
-i only ever promised to lay there  
-                                               brown babies  
-under the mosquito net  
-                                               kept squealing until i  
-quiet as a bird could sleeping with a god  
-                                               pulled up my socks for them  
-over her head all proud & puffed up but  
+i only ever promised to lay there
+                                               brown babies
+under the mosquito net
+                                               kept squealing until i
+quiet as a bird could sleeping with a god
+                                               pulled up my socks for them
+over her head all proud & puffed up but
                                                all the way to my knees
-i made such a mess in the bed  
+i made such a mess in the bed
                                                y volví a casa
-had to get out of the muck  
+had to get out of the muck
                                                without any boots or silver or romance
-asquerosa  
+asquerosa
                                                untouched by anything but dirty asphalt
-i’d guzzled the mango nectar  
-                                               i wanted for someone to douse me  
-in the fridge without permission  
-                                               in my island’s holiest water  
-unlocked the bolts of my need  
-                                               to make me grown  
-como un tamborito, piel abierto  
-                                               tell me a thing or two  
-tell me,  
-                                               about what it feels like to eat yourself up  
-if the bachatero doesn’t  
-                                               wailing in sing song &  
-roll the güiro down the alley  
-                                               as ripe as the sorrow  
-all night did he ask for enough  
-                                               underneath my pillow  
-forgiveness? if i walked out into the  
-                                               i put my hands to work &  
-street wearing my childsclothes would  
-                                               hid my girlcharms  
-someone write a song about me  
-                                               my stink of youth that  
-as if i were a woman? my stomach  
-                                               offends the god, chokes the bird,  
-went tiktikatik & i became a grand band;  
+i’d guzzled the mango nectar
+                                               i wanted for someone to douse me
+in the fridge without permission
+                                               in my island’s holiest water
+unlocked the bolts of my need
+                                               to make me grown
+como un tamborito, piel abierto
+                                               tell me a thing or two
+tell me,
+                                               about what it feels like to eat yourself up
+if the bachatero doesn’t
+                                               wailing in sing song &
+roll the güiro down the alley
+                                               as ripe as the sorrow
+all night did he ask for enough
+                                               underneath my pillow
+forgiveness? if i walked out into the
+                                               i put my hands to work &
+street wearing my childsclothes would
+                                               hid my girlcharms
+someone write a song about me
+                                               my stink of youth that
+as if i were a woman? my stomach
+                                               offends the god, chokes the bird,
+went tiktikatik & i became a grand band;
                                                tucks me in, & i can tell you it sings
-the men in their wifebeaters & the dogs &  
-                                               it sings my need like a fable, like a howl 
+the men in their wifebeaters & the dogs &
+                                               it sings my need like a fable, like a howl
 </pre>
 

@@ -4,7 +4,7 @@ slug: "chatterbug"
 issue: "Fall"
 issue_full_name: "Fall 2019"
 year: "2019"
-date: "2019-10-01"
+date: "2019-09-01"
 authors: ['Sara Luzuriaga']
 section: "fiction"
 audio: []
@@ -67,7 +67,7 @@ The doorbell rang. I wasn’t expecting anybody. I let myself imagine it was Tay
 
 The next morning I got up extra early and made pancakes with Aunt Jemima mix. “I hope you’re smelling this,” I said, hoping they could hear me through the air vents. “Enjoy not breaking your fast.” Seriously, these people were even more in-your-face than me. I imagined them downstairs sipping herbal tea, talking about me. I imagined them watching me walk to my car, commenting to each other on the movement of my thighs in my pants.
 
-On the way out, I left them another note: go fuck yourselves. 
+On the way out, I left them another note: go fuck yourselves.
 
 ***
 

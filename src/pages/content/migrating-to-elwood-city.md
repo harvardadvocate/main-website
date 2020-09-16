@@ -1,0 +1,40 @@
+---
+title: "Migrating to Elwood City"
+slug: "migrating-to-elwood-city"
+issue: "Winter"
+issue_full_name: "Winter 2020"
+year: "2020"
+date: "2020-01-01"
+authors: ['Uma Menon']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+videos: []
+---
+
+*after Sue Ellen*
+<br>
+
+Here, trees tap-dance like the ghosts
+of nomads – red curls, invisible
+hands, fear, everything else
+that adults cannot see. Confection
+across the housetop – do you think
+they have kids? Here’s what it’s like
+to come from a sugarless world.
+Now I migrate between cavities, thread tongue between
+lips, hear screaming
+down the streets. I promise, invisible
+people won’t chase you
+down the streets, if they have kids,
+anyway. There’s been a heist
+at the art museum – is it the immigrant?
+the child? the security guard? None
+of those, really. I can’t roll
+the Mona Lisa into my backpack
+or conquer the world. Even spaceships
+are made of earth-metals. I wonder how many lies
+can thrive in one town. They die
+away, soon.
