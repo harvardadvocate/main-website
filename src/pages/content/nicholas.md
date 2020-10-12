@@ -14,30 +14,30 @@ images: []
 videos: []
 ---
 
-Honey locust and the fishing rod.
-Hook silvered creek.
+Honey locust and the fishing rod.  
+Hook silvered creek.  
 
-You say a river baptized your grandpa.
-And from the canopy of branches,
+You say a river baptized your grandpa.  
+And from the canopy of branches,  
 
-you step into this purl of rain
-to hold a bream like a sheet of copper.
+you step into this purl of rain  
+to hold a bream like a sheet of copper.  
 
-Gods change things all the time.
-Your feet into cattails, fingers ox eyes—
+Gods change things all the time.  
+Your feet into cattails, fingers ox eyes—  
 
-tomatoes lipped on spun vines.
-Hold one, cut one. Who knew light could do that?
+tomatoes lipped on spun vines.  
+Hold one, cut one. Who knew light could do that?  
 
-Each summer, you are one chalked fir
-snagged on a feral green hill.
+Each summer, you are one chalked fir  
+snagged on a feral green hill.  
 
-The heavy rust rattle of cicadas.
-Three hawks in the brush.
+The heavy rust rattle of cicadas.  
+Three hawks in the brush.  
 
-If not the moon,
-then a word for it.
+If not the moon,  
+then a word for it.  
 
-Who knew what sons we might have in spring?
-Mine, the warm glide of his hair.
+Who knew what sons we might have in spring?  
+Mine, the warm glide of his hair.  
 

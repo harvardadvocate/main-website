@@ -13,20 +13,20 @@ banner_image: ""
 images: []
 videos: []
 ---
-*—for Patrick Pethybridge*
+*—for Patrick Pethybridge*  
 <br>
 
-, the no-tongue bell
-, the urn-mouth against the earth
-, dream in which I would not sing
-, though many asked me to sing
-, slept warm in the stable straw
-, with my head on a lamb breathing
-, a full-grown lamb
-, the bell around the cow’s neck
-, did not ring
-, the bell was sleeping
-, dreaming that it would not ring
-, goat mouth asleep in the hay
-, the dream of eating hay
+, the no-tongue bell  
+, the urn-mouth against the earth  
+, dream in which I would not sing  
+, though many asked me to sing  
+, slept warm in the stable straw  
+, with my head on a lamb breathing  
+, a full-grown lamb  
+, the bell around the cow’s neck  
+, did not ring  
+, the bell was sleeping  
+, dreaming that it would not ring  
+, goat mouth asleep in the hay  
+, the dream of eating hay  
 

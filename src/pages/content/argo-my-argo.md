@@ -15,66 +15,66 @@ videos: []
 ---
 
 
-The mirror’s clubfooted,
-not me. Afro’s gone Medusa again.
+The mirror’s clubfooted,  
+not me. Afro’s gone Medusa again.  
 
-Every coil’s its own Hydra.
-I’m adventuring with a comb.
+Every coil’s its own Hydra.  
+I’m adventuring with a comb.  
 
-The sink’s full of myths...
-The myths are growing...
+The sink’s full of myths...  
+The myths are growing...  
 
-Everyday I find myself
-smaller with effort,
+Everyday I find myself  
+smaller with effort,  
 
-my life’s light
-with every person who
+my life’s light  
+with every person who  
 
-spoke of me. Last night,
-Achebe tried again
+spoke of me. Last night,  
+Achebe tried again  
 
-and I nearly heard him.
-Ngũgĩ refuses these tones, says,
+and I nearly heard him.  
+Ngũgĩ refuses these tones, says,  
 
-*this music has the worst sort
-of oceans beneath it.*
+*this music has the worst sort  
+of oceans beneath it.*  
 
-Besides, his ears
-are busy with real myths…
+Besides, his ears  
+are busy with real myths…  
 
-*Being alive must be nice,*
-says the sink-basin, filling
+*Being alive must be nice,*  
+says the sink-basin, filling  
 
-further with myths…
-I say, *abandon narrative,*
+further with myths…  
+I say, *abandon narrative,*  
 
-latch on to landlocked
-home— forget ships,
+latch on to landlocked  
+home— forget ships,  
 
-take planes! land with
-passport on to place
+take planes! land with  
+passport on to place  
 
-with shore— forget ships,
-take planes! land with
+with shore— forget ships,  
+take planes! land with  
 
-passport back to place
-without shore— forget ships
+passport back to place  
+without shore— forget ships  
 
-for a day sometime on
-winter break, during summer—
+for a day sometime on  
+winter break, during summer—  
 
-our only seasons here.
-My body’s a clubfooted boat,
+our only seasons here.  
+My body’s a clubfooted boat,  
 
-not me. One time I went
-blonde, that’s a different
+not me. One time I went  
+blonde, that’s a different  
 
-prow. One time I went
-with suit-jacket, that’s a different
+prow. One time I went  
+with suit-jacket, that’s a different  
 
-sail. One time I go
-and touch the exact difference,
+sail. One time I go  
+and touch the exact difference,  
 
-pretty, sailing, she says, *I love you.*
-I say, *whose boat.*
+pretty, sailing, she says, *I love you.*  
+I say, *whose boat.*  
 
