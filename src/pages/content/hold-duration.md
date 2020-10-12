@@ -13,74 +13,74 @@ banner_image: ""
 images: []
 videos: []
 ---
-At some point
+At some point  
 
-I had a swollen muscle
+I had a swollen muscle  
 
-)or a body
+)or a body  
 
-that pretended to be
+that pretended to be  
 
-one swollen muscle)
+one swollen muscle)  
 
-Loaned to me by a tuft of sugar cane
+Loaned to me by a tuft of sugar cane  
 
-I don’t know how to hold sweetness
+I don’t know how to hold sweetness  
 
-or vastness the right way
+or vastness the right way  
 
-Like a poacher caressing dirt
+Like a poacher caressing dirt  
 
-before cutting for some long absent bone
+before cutting for some long absent bone  
 
-What I’ve been able to hold has long
+What I’ve been able to hold has long  
 
-been lost in a hole of the white
+been lost in a hole of the white  
 
-porcelain of one whole universe’s heirlooms
+porcelain of one whole universe’s heirlooms  
 
-Cartography is just the
+Cartography is just the  
 
-impulse to jump
+impulse to jump  
 
-off of things
+off of things  
 
-The righteous have since discovered
+The righteous have since discovered  
 
-a black hole with its maw wide open
+a black hole with its maw wide open  
 
-Who can compete
+Who can compete  
 
-with that kind of devotion?
+with that kind of devotion?  
 
-I certainly can’t
+I certainly can’t  
 
-My stomach
+My stomach  
 
-Won’t hold any more of
+Won’t hold any more of  
 
-The universe’s ash
+The universe’s ash  
 
-I’ll cough it up in the yard
+I’ll cough it up in the yard  
 
-Next to the ire and the musk
+Next to the ire and the musk  
 
-and the citrus tree
+and the citrus tree  
 
-While the man across the street
+While the man across the street  
 
-gives audience with pillaging eyes
+gives audience with pillaging eyes  
 
-At my wither
+At my wither  
 
-at my pinked failure
+at my pinked failure  
 
-Who will hold my hair
+Who will hold my hair  
 
-when that love escapes
+when that love escapes  
 
-my mothering tendon
+my mothering tendon  
 
-Who will hold me through
+Who will hold me through  
 
-All my wretched
+All my wretched  
