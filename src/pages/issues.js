@@ -43,7 +43,7 @@ export default ({data}) => {
             }}
         >
             <div class="container">
-                {issue_full_names.map( (issue_full_name, i) => {
+                {issue_full_names.map((issue_full_name, i) => {
                     if ((i + 1) % 4 === 0) {
                         return (
                                 <div class="row">
