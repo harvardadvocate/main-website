@@ -12,11 +12,11 @@ export default () => (
             <div className="center">
                 <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously</p>
             </div>
-            <h1 class="header">Fall 2020 Issue</h1>
+            <h1 class="header">Winter 2021 Issue</h1>
             <div className='center'>
-                <p>We are currently accepting submissions for our Fall 2020 issue
+                <p>We are currently accepting submissions for our Winter 2021 issue
     </p>
-                <p>Our Fall 2020 review period ends on October 24, 2020.</p>
+                <p>Our Winter 2021 review period ends on January 1st, 2021.</p>
             </div>
             <p></p>
             <p></p>
