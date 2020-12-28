@@ -14,9 +14,11 @@ export default () => (
             </div>
             <h1 class="header">Winter 2021 Issue</h1>
             <div className='center'>
-                <p>We are currently accepting submissions for our Winter 2021 issue
-    </p>
+                <p>We are currently accepting submissions for our Winter 2021 issue.</p>
                 <p>Our Winter 2021 review period ends on January 1st, 2021.</p>
+            </div>
+            <div className='center'>
+                <p>Fast is speed — a blur in a photograph, constant accumulation, caught in an instant. Fast is going without, sudden loss, the hunger for what once was. In this issue, we want to capture withdrawal and acceleration, two opposites contained in the same breath. Fast is too much and not enough. Fast is more and less. What are we fasting from? And for whom? Who chooses when we pull back, and when we move ahead? As we fall deeper into the fast, what keeps us holding on? We want a catalogue of what gets lost and what we leave behind, what we’re moving towards and the objects of our want. We want to see details blurring as things begin to accelerate, the instinct calling us to stop. What happens if the fast ends, the hunger goes, and we begin to slow? Always meant to be broken, the fast can only last so long.</p>
             </div>
             <p></p>
             <p></p>
