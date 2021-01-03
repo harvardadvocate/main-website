@@ -2,9 +2,9 @@
 title: "Changelings"
 slug: "changelings"
 issue: "Winter"
-issue_full_name: "Winter 2019"
-year: "2019"
-date: "2019-12-01"
+issue_full_name: "Winter 2020"
+year: "2020"
+date: "2020-01-01"
 authors: ['D. J. Thielke']
 section: "fiction"
 audio: []
