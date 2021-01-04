@@ -110,7 +110,6 @@ Because of its acknowledgment of the symbiotic relationship between artwork and 
 Bernard, too, at the end of *The Waves*, recognizes the permanence of people blending together, the lasting impacts we make on each other beyond the facts of our physical proximity:
 
 >And now I ask, 'Who am I?' I have been talking of Bernard, Neville, Jinny, Susan, Rhoda and Louis. Am I all of them? Am I one and distinct? I do not know. We sat here together. But now Percival is dead, and Rhoda is dead; we are divided; we are not here. Yet I cannot find any obstacle separating us. There is no division between me and them... 
-
 Here on my brow is the blow I got when Percival fell. Here on the nape of my neck is the kiss Jinny gave Louis. My eyes fill with Susan's tears. I see far away, quivering like a gold thread, the pillar Rhoda saw, and feel the rush of the wind of her flight when she leapt.
 
 My ex-boyfriend and I had gone to the beach once before. Before he took me there on our first date, he often went alone. His beach was fairly grimy and it occurred to me when we got there that the meaning of inviting me was not the sightworthiness of the location but rather the fact of being let in on a secret; couples are only as strong as the secrets they share. 
