@@ -1,5 +1,5 @@
 ---
-title: "An Interview With Sarah Ruhl"
+title: "An Interview with Sarah Ruhl"
 slug: "an-interview-with-sarah-ruhl"
 issue: "Winter"
 issue_full_name: "Winter 2020"
