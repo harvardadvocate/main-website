@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 export default () => (
    <Layout
         pageMeta={{
-            title:"Contact"
+            title: "Contact"
         }}
     >
        <div class="container">
