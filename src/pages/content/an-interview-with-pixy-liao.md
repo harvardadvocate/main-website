@@ -14,9 +14,7 @@ images: []
 videos: []
 ---
 
-*Pixy Liao is an artist born and raised in Shanghai, China. She currently resides in Brooklyn, NY. For the past thirteen years, Liao has been working on the photography series “Experimental Relationship” with her boyfriend Moro. The four photos printed in this issue all originate from this series. Through her work, Liao has subverted ideas of gender, sexuality, performance, control, and race.
-
-Liao spoke with Advocate President Sabrina Li ‘20 by phone in early January. This interview has been condensed and edited for brevity and clarity.*
+*Pixy Liao is an artist born and raised in Shanghai, China. She currently resides in Brooklyn, NY. For the past thirteen years, Liao has been working on the photography series “Experimental Relationship” with her boyfriend Moro. The four photos printed in this issue all originate from this series. Through her work, Liao has subverted ideas of gender, sexuality, performance, control, and race. Liao spoke with Advocate President Sabrina Li ‘20 by phone in early January. This interview has been condensed and edited for brevity and clarity.*
 
 **SL: “Experimental Relationship” has been an ongoing photo project for thirteen years. What inspired the project? How has the project evolved for you?**
 

@@ -14,11 +14,7 @@ images: []
 videos: []
 ---
 
-*Talia Lavin '12 is a freelance journalist based in Brooklyn. She has worked at the New Yorker, the Huffington Post and Media Matters, and written for the New Republic, the Nation, and the New York Times Review of Books, among other publications.
-
-Though Lavin first encountered the world of the far-right while fact-checking stories for the New Yorker, it was not until the the "Unite the Right" rally in Charlottesville, in 2017, that she began to publish her own coverage of the movement. "It was sort of a seismic national moment," she recalls, "and my experience of it was as a Jew, watching these anti-Semitic chants, and the horror of that." She published her first feature on the far-right shortly thereafter; her subsequent work has focused mostly on investigating and unraveling the mechanics of reactionary forces in the United States. She will publish a book on the subject, Culture Warlords, with Hachette Books in October.
-
-Lavin spoke with Advocate Publisher Eliya Smith '20 by phone in early January. This interview has been condensed and edited for brevity and clarity.*
+*Talia Lavin '12 is a freelance journalist based in Brooklyn. She has worked at the New Yorker, the Huffington Post and Media Matters, and written for the New Republic, the Nation, and the New York Times Review of Books, among other publications. Though Lavin first encountered the world of the far-right while fact-checking stories for the New Yorker, it was not until the the "Unite the Right" rally in Charlottesville, in 2017, that she began to publish her own coverage of the movement. "It was sort of a seismic national moment," she recalls, "and my experience of it was as a Jew, watching these anti-Semitic chants, and the horror of that." She published her first feature on the far-right shortly thereafter; her subsequent work has focused mostly on investigating and unraveling the mechanics of reactionary forces in the United States. She will publish a book on the subject, Culture Warlords, with Hachette Books in October. Lavin spoke with Advocate Publisher Eliya Smith '20 by phone in early January. This interview has been condensed and edited for brevity and clarity.*
 
 **EOS: In "[Age of Anxiety](https://newrepublic.com/article/153153/age-anxiety)," which you wrote almost a year ago, you had this great quote: "the state of the union, it seems, is scared as hell." Is fear still the predominating emotion in the United States, or do you feel like it's morphed into something else?**
 
