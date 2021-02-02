@@ -9,16 +9,19 @@ export default () => (
         }}
     >
         <div class="container">
-            <h1 class="header">Fall 2020 COMP</h1>
+            <h1 class="header">COMP THE HARVARD ADVOCATE</h1>
             <p></p>
             <p class="text">
-                Unfortunately, due to the limitations imposed by the remote fall semester, The Harvard Advocate has decided to suspend its planned
-                Fall 2020 comp. We feel that holding a comp remotely at present would pose issues of accessibility, due to varying degrees of access
-                to digital resources, while preventing the magazine from welcoming new members to our community in a meaningful and substantive way.
-                In lieu of a comp, we will be hosting open events, workshops, and projects — all of which will provide opportunities for new students
-                to become involved in Advocate life. Please fill out the form linked <a href="https://forms.gle/9yopJaYJ8XToTbDc9">here</a> if you would like to be kept in the loop about ways to participate
-                in Advocate activities this semester. We anticipate returning to our comp cycle in Spring 2021, with a redesigned comp that responds to the
-                structure of the spring term.
+   The Harvard Advocate has been a home for arts and literature at Harvard since 1866, and we're looking forward to meeting new members through our virtual Spring 2021 comp! Across its seven boards, The Advocate welcomes critics, artists, writers, designers, programmers, and dealmakers alike. No previous experience is necessary. You don’t have to be a writer or an artist—as long as you’re interested in what we do, Advo has a place for you. 
+   The Advocate will be holding comps for all seven boards: Art, Features, Fiction, Poetry, Design, Business, and Tech. To learn more about the organization, our boards, and the comp process, visit our <a href = "https://www.instagram.com/harvardadvocate/"> Instagram <\a>and<a href = "https://docs.google.com/forms/d/e/1FAIpQLSdBCQ_0og9oqY2kJ8OzZfINn181lUFv2ushPJamHocHl4R9aQ/viewform"> sign up<\a> for one of our intro comp meetings on Zoom--
+   <ul>
+      <li>THURS, FEB. 4/9PM EST<\li>
+      <li>SAT, FEB. 6/3PM EST<\li>
+   <\ul>
+
+   Register and get the link on <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdBCQ_0og9oqY2kJ8OzZfINn181lUFv2ushPJamHocHl4R9aQ/viewform">this form<\a>.
+
+   For any questions, comments or concerns, contact <a href = "mailto:dionysi@theharvardadvocate.com"> dionysi@theharvardadvocate.com <\a>.
             </p>
             <p></p>
         </div>
