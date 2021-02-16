@@ -23,49 +23,49 @@ videos: []
 
  palm trees in a line
 
- outside the building
+ outside the building  
 
   
 
  I catch my sight
 
- by: I get it
+ by: I get it  
 
   
 
  and it goes. Girl
 
- overtakes me
+ overtakes me  
 
   
 
  in her leopard coat.
 
- Angora guy
+ Angora guy  
 
   
 
  sweeps up his zone.
 
- A river
+ A river  
 
   
 
  slides behind
 
- the palms, and the sound.
+ the palms, and the sound.  
 
   
 
  I tune it all out
 
- too, each getting
+ too, each getting  
 
   
 
  a rush in. I get
 
- the feeling grows.
+ the feeling grows.  
 
   
 
@@ -75,55 +75,55 @@ videos: []
 
   
 
- I take
+ I take  
 
   
 
  my pill daily,
 
- and the days go by
+ and the days go by  
 
   
 
  a curb. I leave
 
- to cross,
+ to cross,  
 
   
 
  now, to turn
 
- the one-way.
+ the one-way.  
 
   
 
  Not memory:
 
- I wear the jacket
+ I wear the jacket  
 
   
 
  new, hand-painted
 
- blue. All over
+ blue. All over  
 
   
 
  it was like:
 
- always meet
+ always meet  
 
   
 
  your next in fuss
 
- -free pomade.
+ -free pomade.  
 
   
 
  Few wear gloves
 
- in warm winter.
+ in warm winter.  
 
   
 
@@ -133,55 +133,55 @@ videos: []
 
   
 
- He swayed
+ He swayed  
 
   
 
  as if he had me
 
- with his traps.
+ with his traps.  
 
   
 
  It was just down
 
- to his face.
+ to his face.  
 
   
 
  When I inhaled
 
- the air of him
+ the air of him  
 
   
 
  I felt as if
 
- I’d only know.
+ I’d only know.  
 
   
 
  He was sweet
 
- when he talked.
+ when he talked.  
 
   
 
  His mouth closed up.
 
- Orange pullover
+ Orange pullover  
 
   
 
  and a cling job.
 
- I came away,
+ I came away,  
 
   
 
  not even changed
 
- by the ripeness of his lips.
+ by the ripeness of his lips.  
 
   
 
@@ -189,55 +189,55 @@ videos: []
 
   
 
- In that office
+ In that office  
 
   
 
  I saw a plant 
 
- so green it was like:
+ so green it was like:  
 
   
 
  I insist. Being
 
- nowhere else
+ nowhere else  
 
   
 
  became its own
 
- effect. I lacked
+ effect. I lacked  
 
   
 
  a window,
 
- so couldn’t
+ so couldn’t  
 
   
 
  let in a wind,
 
- couldn’t upgrade
+ couldn’t upgrade  
 
   
 
  the moment to
 
- its movement as
+ its movement as  
 
   
 
  I would have it:
 
- my body, proven;
+ my body, proven;  
 
   
 
  the plant, hanging
 
- up and
+ up and  
 
   
 
@@ -247,31 +247,31 @@ videos: []
 
   
 
- shaken.
+ shaken.  
 
   
 
  It was like snow,
 
- unexpected.
+ unexpected.  
 
   
 
  Temporary
 
- yes, but there
+ yes, but there  
 
   
 
  I go, into it.
 
- There are beams
+ There are beams  
 
   
 
  between buildings
 
- so that support
+ so that support  
 
   
 
@@ -279,25 +279,25 @@ videos: []
 
  is some bird
 
- upon them.
+ upon them.  
 
   
 
  Parallel
 
- facility:
+ facility:  
 
   
 
  I’m to say who.
 
- And don’t.
+ And don’t.  
 
   
 
  As if the good
 
- it does to be good
+ it does to be good  
 
   
 
@@ -307,49 +307,49 @@ videos: []
 
   
 
- for me now
+ for me now  
 
   
 
  won’t fall apart.
 
- I see a bench
+ I see a bench  
 
   
 
  on and on.
 
- Puffy boys
+ Puffy boys  
 
   
 
  will motion to
 
- the dirty birds
+ the dirty birds  
 
   
 
  it was like
 
- resistance
+ resistance  
 
   
 
  to notice, so
 
- I did. And do,
+ I did. And do,  
 
   
 
  differentiating:
 
- the faster
+ the faster  
 
   
 
  you go, the lighter
 
- it feels, car-wise,
+ it feels, car-wise,  
 
   
 
