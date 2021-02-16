@@ -17,55 +17,55 @@ videos: []
 
   
 
- It was like
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was like
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  palm trees in a line
 
- outside the building  
+ &nbsp;&nbsp;&nbsp;&nbsp;outside the building  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  I catch my sight
 
- by: I get it  
+&nbsp;&nbsp;&nbsp;&nbsp;by: I get it  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  and it goes. Girl
 
- overtakes me  
+ &nbsp;&nbsp;&nbsp;&nbsp;overtakes me  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  in her leopard coat.
 
- Angora guy  
+ &nbsp;&nbsp;&nbsp;&nbsp;Angora guy  
 
   
 
  sweeps up his zone.
 
- A river  
+ &nbsp;&nbsp;&nbsp;&nbsp;A river  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  slides behind
 
- the palms, and the sound.  
+ &nbsp;&nbsp;&nbsp;&nbsp;the palms, and the sound.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  I tune it all out
 
- too, each getting  
+ &nbsp;&nbsp;&nbsp;&nbsp;too, each getting  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  a rush in. I get
 
- the feeling grows.  
+ &nbsp;&nbsp;&nbsp;&nbsp;the feeling grows.  
 
   
 
@@ -75,55 +75,55 @@ videos: []
 
   
 
- I take  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I take  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  my pill daily,
 
- and the days go by  
+ &nbsp;&nbsp;&nbsp;&nbsp;and the days go by  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  a curb. I leave
 
- to cross,  
+ &nbsp;&nbsp;&nbsp;&nbsp;to cross,  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  now, to turn
 
- the one-way.  
-
-  
+ &nbsp;&nbsp;&nbsp;&nbsp;the one-way.  
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
  Not memory:
 
- I wear the jacket  
+ &nbsp;&nbsp;&nbsp;&nbsp;I wear the jacket  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  new, hand-painted
 
- blue. All over  
+ &nbsp;&nbsp;&nbsp;&nbsp;blue. All over  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  it was like:
 
- always meet  
+ &nbsp;&nbsp;&nbsp;&nbsp;always meet  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  your next in fuss
 
- -free pomade.  
+&nbsp;&nbsp;&nbsp;&nbsp; -free pomade.  
 
   
 
  Few wear gloves
 
- in warm winter.  
+ &nbsp;&nbsp;&nbsp;&nbsp;in warm winter.  
 
   
 
@@ -133,55 +133,55 @@ videos: []
 
   
 
- He swayed  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He swayed  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  as if he had me
 
- with his traps.  
+ &nbsp;&nbsp;&nbsp;&nbsp;with his traps.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  It was just down
 
- to his face.  
+ &nbsp;&nbsp;&nbsp;&nbsp;to his face.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  When I inhaled
 
- the air of him  
+ &nbsp;&nbsp;&nbsp;&nbsp;the air of him  
 
   
 
  I felt as if
 
- I’d only know.  
+ &nbsp;&nbsp;&nbsp;&nbsp;I’d only know.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  He was sweet
 
- when he talked.  
+ &nbsp;&nbsp;&nbsp;&nbsp;when he talked.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  His mouth closed up.
 
- Orange pullover  
+ &nbsp;&nbsp;&nbsp;&nbsp;Orange pullover  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  and a cling job.
 
- I came away,  
+&nbsp;&nbsp;&nbsp;&nbsp; I came away,  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  not even changed
 
- by the ripeness of his lips.  
+&nbsp;&nbsp;&nbsp;&nbsp; by the ripeness of his lips.  
 
   
 
@@ -189,55 +189,55 @@ videos: []
 
   
 
- In that office  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In that office  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  I saw a plant 
 
- so green it was like:  
+ &nbsp;&nbsp;&nbsp;&nbsp;so green it was like:  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  I insist. Being
 
- nowhere else  
+ &nbsp;&nbsp;&nbsp;&nbsp;nowhere else  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  became its own
 
- effect. I lacked  
+&nbsp;&nbsp;&nbsp;&nbsp; effect. I lacked  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  a window,
 
- so couldn’t  
+ &nbsp;&nbsp;&nbsp;&nbsp;so couldn’t  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  let in a wind,
 
- couldn’t upgrade  
+ &nbsp;&nbsp;&nbsp;&nbsp;couldn’t upgrade  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  the moment to
 
- its movement as  
+ &nbsp;&nbsp;&nbsp;&nbsp;its movement as  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  I would have it:
 
- my body, proven;  
+ &nbsp;&nbsp;&nbsp;&nbsp;my body, proven;  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  the plant, hanging
 
- up and  
+ &nbsp;&nbsp;&nbsp;&nbsp;up and  
 
   
 
@@ -247,57 +247,57 @@ videos: []
 
   
 
- shaken.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shaken.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  It was like snow,
 
- unexpected.  
+ &nbsp;&nbsp;&nbsp;&nbsp;unexpected.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  Temporary
 
- yes, but there  
+ &nbsp;&nbsp;&nbsp;&nbsp;yes, but there  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  I go, into it.
 
- There are beams  
+ &nbsp;&nbsp;&nbsp;&nbsp;There are beams  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  between buildings
 
- so that support  
+ &nbsp;&nbsp;&nbsp;&nbsp;so that support  
 
   
-
+&nbsp;&nbsp;&nbsp;&nbsp;
   
 
  is some bird
 
- upon them.  
+&nbsp;&nbsp;&nbsp;&nbsp; upon them.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  Parallel
 
- facility:  
+ &nbsp;&nbsp;&nbsp;&nbsp;facility:  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  I’m to say who.
 
- And don’t.  
+ &nbsp;&nbsp;&nbsp;&nbsp;And don’t.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  As if the good
 
- it does to be good  
+&nbsp;&nbsp;&nbsp;&nbsp; it does to be good  
 
   
 
@@ -307,53 +307,53 @@ videos: []
 
   
 
- for me now  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for me now  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  won’t fall apart.
 
- I see a bench  
+ &nbsp;&nbsp;&nbsp;&nbsp;I see a bench  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  on and on.
 
- Puffy boys  
+ &nbsp;&nbsp;&nbsp;&nbsp;Puffy boys  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  will motion to
 
- the dirty birds  
+ &nbsp;&nbsp;&nbsp;&nbsp;the dirty birds  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  it was like
 
- resistance  
+ &nbsp;&nbsp;&nbsp;&nbsp;resistance  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  to notice, so
 
- I did. And do,  
+ &nbsp;&nbsp;&nbsp;&nbsp;I did. And do,  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  differentiating:
 
- the faster  
+ &nbsp;&nbsp;&nbsp;&nbsp;the faster  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  you go, the lighter
 
- it feels, car-wise,  
+ &nbsp;&nbsp;&nbsp;&nbsp;it feels, car-wise,  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
  like memory.
 
- Because it was.
+ &nbsp;&nbsp;&nbsp;&nbsp;Because it was.
 
