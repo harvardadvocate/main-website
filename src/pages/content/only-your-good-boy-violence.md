@@ -17,110 +17,110 @@ videos: []
 
   
 
-   It was like
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was like
  
  
 
  palm trees in a line
- 
-   outside the building  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; outside the building  
 
 
 
  I catch my sight
 
-   by: I get it  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   by: I get it  
    
    
                        
  and it goes. Girl
 
  
-  overtakes me  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  overtakes me  
 
 
 
 in her leopard coat.
 
-   Angora guy  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Angora guy  
  
  
  
  sweeps up his zone.
 
-   A river  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  A river  
 
  
  
  slides behind
 
-   the palms, and the sound.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  the palms, and the sound.  
 
 
 
  I tune it all out
 
-   too, each getting  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  too, each getting  
 
 
 
  a rush in. I get
 
-   the feeling grows.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   the feeling grows.  
 
   
 
  2
 
-   I take  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   I take  
  
     
  
  my pill daily,
 
-   and the days go by  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   and the days go by  
 
    
    
 a curb. I leave
 
-   to cross,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   to cross,   
 
    
    
 now, to turn
 
-   the one-way.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   the one-way.  
 
    
    
 Not memory:
 
-   I wear the jacket  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I wear the jacket  
 
    
    
 new, hand-painted
 
-   blue. All over  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   blue. All over  
 
    
    
 it was like:
 
-   always meet  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   always meet  
 
    
    
 your next in fuss
 
-   -free pomade.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -free pomade.  
   
   
   
 Few wear gloves
 
-   in warm winter.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  in warm winter.  
 
   
 
@@ -130,55 +130,55 @@ Few wear gloves
 
   
 
-   He swayed  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   He swayed  
 
   
 
  as if he had me
 
-   with his traps.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  with his traps.  
 
   
 
  It was just down
 
-   to his face.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   to his face.  
 
   
 
  When I inhaled
 
-   the air of him  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  the air of him  
 
   
 
  I felt as if
 
-   I’d only know.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   I’d only know.  
 
   
 
  He was sweet
 
-   when he talked.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   when he talked.  
 
   
 
  His mouth closed up.
 
-   Orange pullover  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Orange pullover  
 
   
 
  and a cling job.
 
-   I came away,  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I came away,  
 
   
 
  not even changed
 
-   by the ripeness of his lips.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  by the ripeness of his lips.  
 
   
 
@@ -186,55 +186,55 @@ Few wear gloves
 
   
 
-   In that office  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   In that office  
 
   
 
 I saw a plant 
 
-   so green it was like:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   so green it was like:  
 
   
 
  I insist. Being
 
-   nowhere else  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   nowhere else  
 
   
 
  became its own
 
-   effect. I lacked  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   effect. I lacked  
 
   
 
  a window,
 
-   so couldn’t  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   so couldn’t  
 
   
 
  let in a wind,
 
-   couldn’t upgrade  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   couldn’t upgrade  
 
   
 
  the moment to
 
-   its movement as  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  its movement as  
 
   
 
  I would have it:
 
-   my body, proven;  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  my body, proven;  
 
   
 
  the plant, hanging
 
-   up and  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  up and  
 
   
 
@@ -244,55 +244,55 @@ I saw a plant 
 
   
 
-   shaken.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  shaken.  
 
   
 
  It was like snow,
 
-   unexpected.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  unexpected.  
 
   
 
  Temporary
 
-   yes, but there  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  yes, but there  
 
   
 
  I go, into it.
 
-   There are beams  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   There are beams  
 
   
 
  between buildings
 
-   so that support  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  so that support  
 
 
 
  is some bird
 
-   upon them.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  upon them.  
 
   
 
  Parallel
 
-   facility:  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  facility:  
 
   
 
  I’m to say who.
 
-   And don’t.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And don’t.  
 
   
 
  As if the good
 
-   it does to be good  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   it does to be good  
 
   
 
@@ -302,53 +302,53 @@ I saw a plant 
 
   
 
-   for me now  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  for me now  
 
   
 
  won’t fall apart.
 
-   I see a bench  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I see a bench  
 
   
 
  on and on.
 
-   Puffy boys  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Puffy boys  
 
   
 
  will motion to
 
-   the dirty birds  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   the dirty birds  
 
   
 
  it was like
 
-   resistance  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  resistance  
 
   
 
  to notice, so
 
-   I did. And do,  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I did. And do,  
 
   
 
  differentiating:
 
-   the faster  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  the faster  
 
   
 
  you go, the lighter
 
-   it feels, car-wise,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   it feels, car-wise,  
 
   
 
  like memory.
 
-   Because it was.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Because it was.
 
