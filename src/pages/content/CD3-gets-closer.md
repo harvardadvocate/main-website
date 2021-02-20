@@ -41,4 +41,3 @@ in our hands, like a lover returning? Listened to Kate Bush?
   
 I do those things anyway. I’d like to do them with you,  
 with our small impermanent moon.  
-

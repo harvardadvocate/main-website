@@ -59,4 +59,3 @@ don’t be fooled: what you love
 
 most must be untouchable / there  
 is no tender omen to describe this  
-

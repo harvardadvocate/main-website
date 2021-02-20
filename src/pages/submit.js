@@ -2,21 +2,26 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:"Submit"
+        }}
+    >
         <div class="container">
             <h1 class="header">SUBMISSION GUIDELINES</h1>
             <div className="center">
                 <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously</p>
             </div>
-            <h1 class="header">Spring 2020 Issue</h1>
+            <h1 class="header">Spring 2021 Issue</h1>
             <div className='center'>
-                <p>We are currently accepting submissions for our Spring 2020 issue
-    </p>
-                <p>Our Spring 2020 review period ends on March 6, 2020.</p>
+                <p>We are currently accepting submissions for our Spring 2021 issue.</p>
+                <p>Our Spring 2021 review period ends on March 12th, 2021.</p>
+            </div>
+            <div className='center'>
             </div>
             <p></p>
             <p></p>
-            <div class="center"> 
+            <div class="center">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" class="btn btn-primary btn-150th">FICTION</a>
             </div>
             <ul>
@@ -30,7 +35,7 @@ export default () => (
                 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:fiction@theharvardadvocate.com ">fiction@theharvardadvocate.com </a>
             </div>
             <p></p>
-            <div class="center"> 
+            <div class="center">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link" class="btn btn-primary btn-150th">POETRY</a>
             </div>
             <ul>
@@ -45,7 +50,7 @@ export default () => (
                 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:poetry@theharvardadvocate.com ">poetry@theharvardadvocate.com </a>
             </div>
             <p></p>
-            <div class="center"> 
+            <div class="center">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link" class="btn btn-primary btn-150th">ART</a>
             </div>
             <div class="center">

@@ -1,0 +1,86 @@
+---
+title: "Hold / Duration"
+slug: "hold-duration"
+issue: "Spring"
+issue_full_name: "Fall 2019"
+year: "2019"
+date: "2019-09-01"
+authors: ['Alexa Lemoine']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+videos: []
+---
+At some point  
+
+I had a swollen muscle  
+
+)or a body  
+
+that pretended to be  
+
+one swollen muscle)  
+
+Loaned to me by a tuft of sugar cane  
+
+I don’t know how to hold sweetness  
+
+or vastness the right way  
+
+Like a poacher caressing dirt  
+
+before cutting for some long absent bone  
+
+What I’ve been able to hold has long  
+
+been lost in a hole of the white  
+
+porcelain of one whole universe’s heirlooms  
+
+Cartography is just the  
+
+impulse to jump  
+
+off of things  
+
+The righteous have since discovered  
+
+a black hole with its maw wide open  
+
+Who can compete  
+
+with that kind of devotion?  
+
+I certainly can’t  
+
+My stomach  
+
+Won’t hold any more of  
+
+The universe’s ash  
+
+I’ll cough it up in the yard  
+
+Next to the ire and the musk  
+
+and the citrus tree  
+
+While the man across the street  
+
+gives audience with pillaging eyes  
+
+At my wither  
+
+at my pinked failure  
+
+Who will hold my hair  
+
+when that love escapes  
+
+my mothering tendon  
+
+Who will hold me through  
+
+All my wretched  

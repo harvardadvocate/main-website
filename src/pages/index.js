@@ -100,7 +100,11 @@ export const query = graphql`
 `
 
 export default ({data}) => (
-    <Layout>
+    <Layout
+        pageMeta={{
+            title:"The Harvard Advocate"
+        }}
+    >
         <div class="homepage">
             <section class="top-features">
                 <div class="container-left-half" id="feature-1">
@@ -110,7 +114,7 @@ export default ({data}) => (
                     <div class="feature-image-container-large">
                     <div class="feature-image" id="feature-1-image">
                     <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                        <Image name="at-home-with-peter-bradley.jpg"/>
+                        <Image name="MyFirstBlood2.png"/>
                     </Link>
                     </div>
                     </div>
@@ -140,26 +144,24 @@ export default ({data}) => (
                 <div class="clearfix"></div>
             </section>
             <section class="banner-advertisement">
+
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                        <a href="https://www.vrai.com/"><Image name="vrai.png"/></a>
-                    </article>
-                </div>
-                <div class="col-md-4">
-                    <article>
-                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                            <a href="https://divacup.com/"> 
-                                <Image name="diva_cup.png"/> 
+                            <a href="https://www.loveprayjewelry.com/">
+                                <Image name="lovepray.png"/>
                             </a>
                     </article>
                 </div>
                 <div class="col-md-4">
                     <article>
                         <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                        <a href="https://www.vrai.com/"><Image name="vrai.png"/></a>
+                            <a href="https://www.luxuryhotelsguides.com/?hotelid=57190&gclid=EAIaIQobChMIgs-rqNy16AIVyrHtCh1lqgiLEAAYASAAEgK64fD_BwE">
+                                <Image name="irvinghouse2.jpeg"/>
+                            </a>
                     </article>
                 </div>
+
                 <div class="clearfix"></div>
             </section>
             <section class="bottom-features">
@@ -174,7 +176,7 @@ export default ({data}) => (
                         <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
-                                    <Image name = "summer-2019.png"/>
+                                    <Image name = "winter-2020.png"/>
                                 </div>
                             </div>
                         </Link>

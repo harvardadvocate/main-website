@@ -16,14 +16,13 @@ function convertToSlug(Text)
     return Text
         .toLowerCase()
         .replace(/ /g,'-')
-        .replace(/[^\w-]+/g,'')
-        ;
+        .replace(/[^\w-]+/g,''); 
 }
 
 function issue_full_date_compare(a, b) {
     const a_parts = a.split(" ")
     const b_parts = b.split(" ")
-    const issue_order = ['Spring', 'Summer', 'Commencement', 'Fall', 'Winter']
+    const issue_order = ['Winter', 'Spring', 'Summer', 'Commencement', 'Fall']
 
     // If the issue have different years, we can compare the years directly
     if (a_parts[1] !== b_parts[1]) {
@@ -38,9 +37,13 @@ export default ({data}) => {
     issue_full_names.sort(issue_full_date_compare)
     issue_full_names.reverse()
     return (
-        <Layout>
+        <Layout
+            pageMeta={{
+                title:"Issues"
+            }}
+        >
             <div class="container">
-                {issue_full_names.map( (issue_full_name, i) => {
+                {issue_full_names.map((issue_full_name, i) => {
                     if ((i + 1) % 4 === 0) {
                         return (
                                 <div class="row">
@@ -65,7 +68,7 @@ export default ({data}) => {
                                         </Link>
                                     </figure>
                                 </div>
-                            )              
+                            )
                     }
                 })}
             </div>

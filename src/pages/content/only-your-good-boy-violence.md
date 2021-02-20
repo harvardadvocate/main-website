@@ -32,26 +32,27 @@ videos: []
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by: I get it  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+                          
  and it goes. Girl
+
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;overtakes me  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- in her leopard coat.
+  in her leopard coat.
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Angora guy  
 
-  
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
  sweeps up his zone.
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A river  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
- slides behind
+ 
+  slides behind
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the palms, and the sound.  
 
@@ -62,12 +63,11 @@ videos: []
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;too, each getting  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  
  a rush in. I get
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the feeling grows.  
 
-  
 
   
 
@@ -84,27 +84,27 @@ videos: []
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and the days go by  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
- a curb. I leave
+  
+a curb. I leave
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to cross,  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
- now, to turn
+      
+now, to turn
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the one-way.  
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
- Not memory:
+   
+Not memory:
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I wear the jacket  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+ 
  new, hand-painted
-
+ 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blue. All over  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -119,12 +119,11 @@ videos: []
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -free pomade.  
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  Few wear gloves
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in warm winter.  
-
   
 
   
@@ -193,7 +192,7 @@ videos: []
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- I saw a plant 
+I saw a plant 
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so green it was like:  
 
@@ -356,4 +355,3 @@ videos: []
  like memory.
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because it was.
-

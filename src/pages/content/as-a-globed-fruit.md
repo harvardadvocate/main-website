@@ -1,10 +1,10 @@
 ---
-title: "As a Globed Fruit<sup>1</sup>"
+title: "As a Globed Fruit"
 slug: "as-a-globed-fruit"
 issue: "Spring"
 issue_full_name: "Spring 2020"
 year: "2020"
-date: "2020-05-09"
+date: "2020-03-01"
 authors: ['Ezra Lebovitz']
 section: "poetry"
 audio: []
@@ -50,7 +50,7 @@ before it is anything else.
 
 Later, I can ask you about the rest.  
 
-
-
-
-<sup>1</sup>Title is taken from Archibald MacLeish’s “Ars Poetica."
+<br>
+<br>
+<br>
+<sup>1</sup>Title is taken from Archibald MacLeish’s “Ars Poetica."  

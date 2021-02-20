@@ -1,0 +1,32 @@
+---
+title: "Weighing the Difference"
+slug: "weighing-the-difference.md"
+issue: "Spring"
+issue_full_name: "Spring 2019"
+year: "2019"
+date: "2019-04-01"
+authors: ['Emily Tian']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+videos: []
+---
+
+*with a line from Sappho, translated by William Logan*
+
+<br>
+Anna interprets my dreams as the fear of botching  
+a chance at heaven. I would like to believe in  
+the plurals of things, the hour shored up against a bridge,  
+its bright underbelly furring against my cheekbones.  
+Everything here is all shutter and no latch.  
+We’re a bunch of wackos who cry before our birthdays  
+so the morning startles in its fullness. Sappho, from the Greek,  
+could haul up a bucket of spring water  
+from that reeking sewer of her life.  
+Seeing that my life is not so much sewer as the lake  
+we swim in, with its fair share of algae and silt blooms,  
+the water should be clean enough, if not to drink,  
+then to wash away the day’s worth of dirt.  
